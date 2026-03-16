@@ -18,6 +18,7 @@ This architecture demonstrates how conversational healthcare systems can evolve 
 * Role-based pathways for doctors and consumers
 * Dynamic transdermal patch therapy exploration
 * Clinical answer refinement using AI-generated medical response orchestration
+* Retrieval-Augmented Generation (RAG) using structured therapy knowledge for grounded clinical responses
 * Therapy-specific self-assessment engine with scoring logic
 * Nicotine dependence classification and personalized Nitof dose recommendation
 * Safety flag detection and relapse-risk logic
