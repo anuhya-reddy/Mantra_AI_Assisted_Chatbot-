@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PatchMantra Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <!-- FLOATING CHAT ICON -->
+    <div id="chatToggle" class="chat-toggle">
+        💬
+    </div>
+
+    <!-- CHAT MODAL -->
+    <div id="chatModal" class="chat-modal hidden">
+
+        <!-- HEADER -->
+        <div class="chat-header">
+            <div class="header-left">
+                <div class="bot-avatar">🤖</div>
+                <div>
+                    <h3>Mantra Bot</h3>
+                    <p id="factTicker">Your trusted companion for patch therapy</p>
+                </div>
+            </div>
+            <button id="closeChat" class="close-btn">✖</button>
+        </div>
+
+        <!-- CHAT BODY -->
+        <div id="chatBody" class="chat-body">
+            <!-- Messages will appear here -->
+        </div>
+
+        <!-- INPUT AREA -->
+        <div class="chat-input-container">
+
+            <div class="input-row">
+
+                <!-- LANGUAGE SELECTOR -->
+                <select id="languageSelect">
+                    <option value="en">English</option>
+                    <option value="hi">Hindi</option>
+                    <option value="te">Telugu</option>
+                </select>
+
+                <!-- TEXTAREA -->
+                <textarea 
+                    id="userInput" 
+                    placeholder="Type your message..."
+                    rows="1">
+                </textarea>
+
+                <!-- SEND BUTTON -->
+                <button id="sendBtn" class="send-btn">
+                    ➤
+                </button>
+
+                <!-- VOICE BUTTON -->
+                <button id="voiceBtn" class="voice-btn">
+                    🎤
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

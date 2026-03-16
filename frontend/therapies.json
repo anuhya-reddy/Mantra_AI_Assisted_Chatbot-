@@ -1,0 +1,1446 @@
+{
+  "doctor": {
+    "en": {
+      "Nitof": {
+        "Consumer Selection": [
+          {
+            "question": "Which consumers benefit most from Nitof?",
+            "answer": "Heavy smokers (>10 cigs/day); Consumers with strong withdrawal symptoms; Those failed with cold turkey or oral NRT; Motivated to quit with medical support; No contraindications to nicotine."
+          },
+          {
+            "question": "What are contraindications?",
+            "answer": "Absolute: recent MI (<2 weeks), serious arrhythmias, hyperthyroidism. Relative: skin disease, pregnancy (unless benefits outweigh risks), concurrent smoking + patch (monitor)."
+          },
+          {
+            "question": "How to assess nicotine dependence?",
+            "answer": "Use Fagerström Test: score ≥6 = high dependence (start 21mg). Time to first cigarette <30 min = higher dose needed. Previous quit attempts with severe withdrawal = patch candidate."
+          }
+        ],
+        "Dosing and Duration": [
+          {
+            "question": "Recommended dosing schedule?",
+            "answer": "Week 1-6: 21mg/24h; Week 7-9: 14mg/24h; Week 10-12: 7mg/24h. Total 12 weeks. May extend step 1 if cravings persist."
+          },
+          {
+            "question": "When to use combination therapy?",
+            "answer": "Persistent cravings despite patch: add short-acting NRT (gum/lozenge) PRN. Improves quit rates by 30-50%. Monitor total nicotine exposure."
+          },
+          {
+            "question": "Duration of therapy?",
+            "answer": "Standard: 12 weeks. Extended: up to 24 weeks if benefits clear. Abrupt cessation increases relapse risk. Taper gradually."
+          }
+        ],
+        "Monitoring and Follow-up": [
+          {
+            "question": "What to monitor during treatment?",
+            "answer": "CO/cotinine levels at week 4, 8, 12; Subjective cravings/withdrawal; Smoking lapse frequency; Side effects (skin, sleep); Behavioral progress."
+          },
+          {
+            "question": "When to reassess therapy?",
+            "answer": "Week 2: tolerability/side effects. Week 4: efficacy (cravings reduction). Week 8: smoking status. Week 12: complete cessation achieved?"
+          },
+          {
+            "question": "Management of nicotine toxicity?",
+            "answer": "Symptoms: nausea, vomiting, dizziness, palpitations. Action: remove patch, monitor vitals, supportive care. Usually self-limiting."
+          }
+        ],
+        "Evidence and Guidelines": [
+          {
+            "question": "What is the evidence for patch efficacy?",
+            "answer": "Meta-analysis: patches double quit rates vs placebo (17% vs 9% at 6 months). Combination therapy: 25% success. Long-term (>6 months): 15-20% abstinence."
+          },
+          {
+            "question": "NICE/GOLD guidelines?",
+            "answer": "First-line NRT. Combination preferred for high dependence. Minimum 12 weeks + behavioral support. Consider varenicline/bupropion if NRT fails."
+          },
+          {
+            "question": "Special populations?",
+            "answer": "Pregnancy: 14mg preferred, monitor fetus. CVD: safe if stable. Mental illness: monitor mood, safe with antidepressants."
+          }
+        ]
+      },
+
+      "Hetriva": {
+        "Consumer Selection": [
+          {
+            "question": "Which dementia consumers benefit most?",
+            "answer": "Mild-moderate Alzheimer's (MMSE 10-26); Vascular dementia with cholinergic deficit; Lewy body dementia (without severe hallucinations); Parkinson's disease dementia."
+          },
+          {
+            "question": "When to initiate cholinesterase inhibitors?",
+            "answer": "Mild-moderate AD: MMSE 10-26. Functional decline despite optimized non-drug therapy. Caregiver burden significant. Expected survival >2 years."
+          },
+          {
+            "question": "Contraindications?",
+            "answer": "Absolute: hypersensitivity. Relative: severe hepatic impairment, sick sinus syndrome, urinary retention, uncontrolled asthma/COPD."
+          }
+        ],
+        "Dosing and Duration": [
+          {
+            "question": "Recommended titration schedule?",
+            "answer": "Week 1-2: 4.6mg/24h; Week 3-4: 9.5mg/24h; Week 5+: 13.3mg/24h (target). Slower titration reduces GI side effects."
+          },
+          {
+            "question": "Patch vs oral conversion?",
+            "answer": "4.6mg patch ≈ 3mg BID oral; 9.5mg patch ≈ 4.5mg BID; 13.3mg patch ≈ 6mg BID. Patch preferred for compliance, steady-state levels."
+          },
+          {
+            "question": "When to down-titrate?",
+            "answer": "Intolerable GI effects, weight loss >10%, bradycardia <50 bpm, behavioral worsening. Reduce to previous tolerated dose."
+          }
+        ],
+        "Monitoring and Follow-up": [
+          {
+            "question": "What assessments at follow-up?",
+            "answer": "MMSE/ADAS-cog every 3-6 months; ADL/IADL function; Caregiver global impression; Weight/BMI; ECG if cardiac symptoms; Skin assessment."
+          },
+          {
+            "question": "When to discontinue?",
+            "answer": "Severe AD (MMSE <10), life expectancy <6 months, no benefit after 6-12 months trial, intolerable side effects despite titration."
+          },
+          {
+            "question": "Drug interactions?",
+            "answer": "Increased cholinergic effects with other ChEIs. Anticholinergics reduce efficacy. NSAIDs may increase GI risk. Monitor with beta-blockers."
+          }
+        ],
+        "Evidence and Guidelines": [
+          {
+            "question": "Efficacy data?",
+            "answer": "MMSE improvement: +1.5-2.5 points at 6 months vs placebo. ADL benefit: +2-3 points. Delays nursing home placement by 6-12 months. Caregiver time savings: 45 min/day."
+          },
+          {
+            "question": "Patch vs oral evidence?",
+            "answer": "IDEAL study: equivalent efficacy, better tolerability (50% less nausea). 24% fewer treatment discontinuations. Steady-state preferred for fluctuating dementia."
+          },
+          {
+            "question": "Combination therapy?",
+            "answer": "Memantine + ChEI: modest additional benefit in moderate-severe AD. Consider after monotherapy failure. No increased adverse events."
+          }
+        ]
+      },
+
+      "Trans-D": {
+        "Consumer Selection": [
+          {
+            "question": "Best indications for Trans-D?",
+            "answer": "Acute soft tissue injuries, ankle sprains, acute low back pain, post-surgical pain, acute gout flares, sports injuries, acute shoulder pain."
+          },
+          {
+            "question": "Duration limit?",
+            "answer": "Maximum 14 days continuous use. Reassess at 7 days. If no improvement, investigate underlying pathology."
+          },
+          {
+            "question": "Contraindications?",
+            "answer": "Absolute: NSAID allergy, 3rd trimester pregnancy, active PUD. Relative: asthma (10% cross-reactivity), CKD stage 4-5, heart failure."
+          }
+        ],
+        "Dosing and Duration": [
+          {
+            "question": "Recommended regimen?",
+            "answer": "1-2 patches daily over painful area, max 14 days. 12-hour on/off cycling reduces skin reactions. Alternate sites daily."
+          },
+          {
+            "question": "Systemic exposure?",
+            "answer": "10% of oral diclofenac dose. Therapeutic tissue levels maintained 12-24 hours. Minimal first-pass metabolism."
+          },
+          {
+            "question": "Combination therapy?",
+            "answer": "Paracetamol + topical NSAID = opioid-sparing. Muscle relaxants for spasm. Avoid oral NSAIDs (additive GI/CV risk)."
+          }
+        ],
+        "Monitoring and Follow-up": [
+          {
+            "question": "What to monitor?",
+            "answer": "Pain scores VAS/NRS daily; Application site weekly; Function improvement (ROM, weight-bearing); GI symptoms; Renal function if comorbidities."
+          },
+          {
+            "question": "Red flags for discontinuation?",
+            "answer": "No improvement >7 days, worsening pain, skin ulceration, systemic symptoms, new neurological signs."
+          },
+          {
+            "question": "When to investigate further?",
+            "answer": "Persistent pain >2 weeks, night pain, weight loss, fever, neurological deficit, history malignancy/infection."
+          }
+        ],
+        "Evidence and Guidelines": [
+          {
+            "question": "Efficacy vs oral NSAIDs?",
+            "answer": "Meta-analysis: equivalent pain relief to oral diclofenac 50mg TID. 60-70% responders at 7 days. Better local tolerability."
+          },
+          {
+            "question": "Safety advantage?",
+            "answer": "GI events: 2.5% vs 15% oral. CV risk equivalent. Skin reactions: 10-15%, usually mild/transient."
+          },
+          {
+            "question": "Guidelines?",
+            "answer": "NICE: first-line topical NSAID for knee/hip OA. SIGN: acute soft tissue injury. Consider paracetamol co-administration."
+          }
+        ]
+      },
+
+      "K-Plast": {
+        "Consumer Selection": [
+          {
+            "question": "Primary indications?",
+            "answer": "Chronic OA (knee, hip, hand), RA, ankylosing spondylitis, chronic low back pain, fibromyalgia, rotator cuff tendinopathy."
+          },
+          {
+            "question": "Ideal candidates?",
+            "answer": "Poor oral NSAID tolerance; High GI risk; Multiple joint involvement; Poor compliance with oral meds; Long-term therapy needed."
+          },
+          {
+            "question": "Contraindications?",
+            "answer": "Absolute: NSAID allergy, 3rd trimester pregnancy, active PUD. Relative: CKD 3+, CV disease, elderly (>75)."
+          }
+        ],
+        "Dosing and Duration": [
+          {
+            "question": "Recommended regimen?",
+            "answer": "1 patch daily over most painful joint/area. Rotate sites daily (back, abdomen, buttock, upper arm). Continuous 24-hour wear."
+          },
+          {
+            "question": "Titration needed?",
+            "answer": "No titration. Steady-state achieved day 3-5. Full anti-inflammatory effect 2-4 weeks."
+          },
+          {
+            "question": "Long-term use?",
+            "answer": "Safe 6-12 months with monitoring. Annual GI/CV/renal assessment. Periodic drug holidays (1-2 weeks) if tolerated."
+          }
+        ],
+        "Monitoring and Follow-up": [
+          {
+            "question": "Laboratory monitoring?",
+            "answer": "Baseline: CrCl, LFTs, BP. 3 months: renal function, BP, Hb. 6-12 months: full assessment. Annual thereafter."
+          },
+          {
+            "question": "Clinical monitoring?",
+            "answer": "Pain VAS monthly x3, then quarterly; Function (WOMAC, HAQ); Skin assessment weekly x4, then monthly; GI symptoms."
+          },
+          {
+            "question": "When to discontinue?",
+            "answer": "No benefit after 8-12 weeks, rising CrCl, new/worsening CV events, skin allergy, consumer preference."
+          }
+        ],
+        "Evidence and Guidelines": [
+          {
+            "question": "Efficacy data?",
+            "answer": "OA trials: 45-60% pain reduction vs 20% placebo. WOMAC improvement 30-40%. Superior to paracetamol, equivalent to oral NSAIDs."
+          },
+          {
+            "question": "Safety profile?",
+            "answer": "GI events: 1.5% vs 12% oral NSAIDs. Skin reactions: 8% (mostly mild). CV risk: equivalent to other topical NSAIDs."
+          },
+          {
+            "question": "Combination therapy?",
+            "answer": "K-Plast + paracetamol = 70% responders; + duloxetine/opioids for severe OA; + intra-articular steroids for flare control."
+          }
+        ]
+      }
+    },
+  
+    "hi": {
+      "Nitof": {
+        "Consumer Selection": [
+          {
+            "question": "किन उपभोक्ताओं को Nitof से सबसे अधिक लाभ होता है?",
+            "answer": "भारी धूम्रपान करने वाले (>10 सिगरेट/दिन); तीव्र निकोटीन विदड्रॉल लक्षण वाले; कोल्ड टर्की या ओरल NRT में असफल रहे व्यक्ति; चिकित्सकीय सहायता के साथ छोड़ने के लिए प्रेरित; निकोटीन के लिए कोई निषेध (contraindication) नहीं।"
+          },
+          {
+            "question": "Contraindications क्या हैं?",
+            "answer": "पूर्ण: हाल का MI (<2 सप्ताह), गंभीर अतालता, हाइपरथायरॉइडिज्म। सापेक्ष: त्वचा रोग, गर्भावस्था (यदि लाभ जोखिम से अधिक हो), पैच के साथ धूम्रपान (निगरानी आवश्यक)।"
+          },
+          {
+            "question": "निकोटीन निर्भरता का आकलन कैसे करें?",
+            "answer": "Fagerström टेस्ट उपयोग करें: स्कोर ≥6 = उच्च निर्भरता (21mg से शुरू करें)। पहली सिगरेट <30 मिनट = उच्च खुराक की आवश्यकता। पिछले प्रयासों में गंभीर विदड्रॉल = पैच उपयुक्त।"
+          }
+        ],
+        "Dosing and Duration": [
+          {
+            "question": "अनुशंसित खुराक अनुसूची क्या है?",
+            "answer": "सप्ताह 1-6: 21mg/24घंटे; सप्ताह 7-9: 14mg/24घंटे; सप्ताह 10-12: 7mg/24घंटे। कुल 12 सप्ताह। यदि क्रेविंग बनी रहे तो चरण 1 बढ़ाया जा सकता है।"
+          },
+          {
+            "question": "संयोजन चिकित्सा कब उपयोग करें?",
+            "answer": "यदि पैच के बावजूद क्रेविंग बनी रहे: शॉर्ट-एक्टिंग NRT (गम/लॉजेंज) आवश्यकता अनुसार जोड़ें। छोड़ने की दर 30-50% बढ़ती है। कुल निकोटीन एक्सपोज़र की निगरानी करें।"
+          },
+          {
+            "question": "उपचार की अवधि कितनी होनी चाहिए?",
+            "answer": "मानक: 12 सप्ताह। विस्तारित: 24 सप्ताह तक यदि लाभ स्पष्ट हो। अचानक बंद करने से पुनरावृत्ति (रिलेप्स) का जोखिम बढ़ता है। धीरे-धीरे कम करें।"
+          }
+        ],
+        "Monitoring and Follow-up": [
+          {
+            "question": "उपचार के दौरान क्या मॉनिटर करें?",
+            "answer": "CO/कोटिनिन स्तर सप्ताह 4, 8, 12 पर; व्यक्तिपरक क्रेविंग/विदड्रॉल; धूम्रपान पुनरावृत्ति की आवृत्ति; साइड इफेक्ट (त्वचा, नींद); व्यवहारिक प्रगति।"
+          },
+          {
+            "question": "थेरेपी का पुनर्मूल्यांकन कब करें?",
+            "answer": "सप्ताह 2: सहनशीलता/साइड इफेक्ट; सप्ताह 4: प्रभावशीलता (क्रेविंग में कमी); सप्ताह 8: धूम्रपान स्थिति; सप्ताह 12: पूर्ण परहेज प्राप्त हुआ?"
+          },
+          {
+            "question": "निकोटीन विषाक्तता का प्रबंधन कैसे करें?",
+            "answer": "लक्षण: मतली, उल्टी, चक्कर, धड़कन। कार्रवाई: पैच हटाएँ, जीवनचिह्न मॉनिटर करें, सहायक देखभाल दें। सामान्यतः स्वयं सीमित।"
+          }
+        ],
+        "Evidence and Guidelines": [
+          {
+            "question": "पैच की प्रभावशीलता के प्रमाण क्या हैं?",
+            "answer": "मेटा-विश्लेषण: पैच प्लेसिबो की तुलना में छोड़ने की दर दोगुनी (6 माह पर 17% बनाम 9%)। संयोजन चिकित्सा: 25% सफलता। दीर्घकालिक (>6 माह): 15-20% परहेज।"
+          },
+          {
+            "question": "NICE/GOLD दिशानिर्देश क्या कहते हैं?",
+            "answer": "प्रथम-पंक्ति NRT। उच्च निर्भरता में संयोजन वरीय। न्यूनतम 12 सप्ताह + व्यवहार समर्थन। NRT विफल होने पर वरेनिक्लीन/बुप्रोपियन पर विचार करें।"
+          },
+          {
+            "question": "विशेष जनसंख्या में उपयोग?",
+            "answer": "गर्भावस्था: 14mg वरीय, भ्रूण मॉनिटरिंग; CVD: स्थिर स्थिति में सुरक्षित; मानसिक रोग: मूड की निगरानी करें, एंटीडिप्रेसेंट्स के साथ सुरक्षित।"
+          }
+        ]
+      },
+
+      "Hetriva": {
+        
+        "Consumer Selection": [
+          {
+            "question": "किन डिमेंशिया रोगियों को सबसे अधिक लाभ?",
+            "answer": "हल्का-मध्यम अल्जाइमर (MMSE 10-26); कोलिनर्जिक कमी के साथ वैस्कुलर डिमेंशिया; लेवी बॉडी डिमेंशिया (गंभीर मतिभ्रम के बिना); पार्किंसन रोग डिमेंशिया।"
+          },
+          {
+            "question": "कोलिनेस्टरेज़ इन्हिबिटर कब शुरू करें?",
+            "answer": "हल्का-मध्यम AD: MMSE 10-26; गैर-दवा उपचार के बावजूद कार्यात्मक गिरावट; देखभालकर्ता पर महत्वपूर्ण बोझ; अपेक्षित जीवन >2 वर्ष।"
+          },
+          {
+            "question": "Contraindications क्या हैं?",
+            "answer": "पूर्ण: अतिसंवेदनशीलता। सापेक्ष: गंभीर यकृत हानि, साइनस सिंड्रोम, मूत्र रुकावट, अनियंत्रित अस्थमा/COPD।"
+          }
+        ],
+        "Dosing and Duration": [
+          {
+            "question": "अनुशंसित टाइट्रेशन अनुसूची?",
+            "answer": "सप्ताह 1-2: 4.6mg/24घंटे; सप्ताह 3-4: 9.5mg/24घंटे; सप्ताह 5+: 13.3mg/24घंटे (लक्ष्य)। धीमा टाइट्रेशन GI साइड इफेक्ट कम करता है।"
+          },
+          {
+            "question": "पैच बनाम ओरल परिवर्तन?",
+            "answer": "4.6mg पैच ≈ 3mg BID ओरल; 9.5mg ≈ 4.5mg BID; 13.3mg ≈ 6mg BID। पैच बेहतर अनुपालन और स्थिर स्तर देता है।"
+          },
+          {
+            "question": "खुराक कब कम करें?",
+            "answer": "असहनीय GI प्रभाव; >10% वजन घटाव; ब्रैडीकार्डिया <50 bpm; व्यवहार में बिगड़ाव।"
+          }
+        ],
+        "Monitoring and Follow-up": [
+          {
+            "question": "फॉलो-अप पर क्या मूल्यांकन करें?",
+            "answer": "MMSE/ADAS-cog हर 3-6 माह; ADL/IADL; देखभालकर्ता का वैश्विक आकलन; वजन/BMI; कार्डियक लक्षण पर ECG; त्वचा जांच।"
+          },
+          {
+            "question": "कब बंद करें?",
+            "answer": "गंभीर AD (MMSE <10); जीवन प्रत्याशा <6 माह; 6-12 माह में लाभ न हो; असहनीय साइड इफेक्ट।"
+          },
+          {
+            "question": "दवा इंटरैक्शन?",
+            "answer": "अन्य ChEIs के साथ कोलिनर्जिक प्रभाव बढ़ेगा; एंटीकॉलिनर्जिक्स प्रभाव कम करते हैं; NSAIDs से GI जोखिम बढ़ सकता है; बीटा-ब्लॉकर्स के साथ निगरानी।"
+          }
+        ],
+        "Evidence and Guidelines": [
+          {
+            "question": "प्रभावशीलता डेटा?",
+            "answer": "MMSE सुधार: 6 माह में +1.5-2.5 अंक; ADL लाभ: +2-3 अंक; नर्सिंग होम प्रवेश 6-12 माह विलंब; देखभालकर्ता समय बचत 45 मिनट/दिन।"
+          },
+          {
+            "question": "पैच बनाम ओरल प्रमाण?",
+            "answer": "IDEAL अध्ययन: समान प्रभावशीलता, 50% कम मतली; 24% कम उपचार बंद; उतार-चढ़ाव वाले डिमेंशिया में स्थिर स्तर बेहतर।"
+          },
+          {
+            "question": "संयोजन चिकित्सा?",
+            "answer": "Memantine + ChEI: मध्यम-गंभीर AD में अतिरिक्त लाभ; मोनोथेरेपी विफल होने पर विचार; प्रतिकूल प्रभाव में वृद्धि नहीं।"
+          }
+        ]
+      },
+
+      "Trans-D": {
+        "Consumer Selection": [
+          {
+            "question": "Trans-D के लिए सर्वोत्तम संकेत?",
+            "answer": "तीव्र सॉफ्ट टिशू चोट; एंकल मोच; तीव्र कमर दर्द; पोस्ट-सर्जिकल दर्द; तीव्र गाउट फ्लेयर; खेल चोट; तीव्र कंधा दर्द।"
+          },
+          {
+            "question": "अधिकतम अवधि सीमा?",
+            "answer": "अधिकतम 14 दिन निरंतर उपयोग। 7 दिन पर पुनर्मूल्यांकन। सुधार न होने पर जांच करें।"
+          },
+          {
+            "question": "Contraindications?",
+            "answer": "पूर्ण: NSAID एलर्जी, तीसरी तिमाही गर्भावस्था, सक्रिय PUD। सापेक्ष: अस्थमा, CKD स्टेज 4-5, हृदय विफलता।"
+          }
+        ],
+        "Dosing and Duration": [
+          {
+            "question": "अनुशंसित रेजिमेन?",
+            "answer": "दर्द वाले क्षेत्र पर 1-2 पैच प्रतिदिन, अधिकतम 14 दिन। 12 घंटे ऑन/ऑफ चक्र त्वचा प्रतिक्रिया कम करता है। प्रतिदिन साइट बदलें।"
+          },
+          {
+            "question": "सिस्टमिक एक्सपोज़र?",
+            "answer": "ओरल डाइक्लोफेनाक का 10%; 12-24 घंटे प्रभाव; न्यूनतम प्रथम-पास मेटाबोलिज्म।"
+          },
+          {
+            "question": "संयोजन चिकित्सा?",
+            "answer": "पेरासिटामोल + टॉपिकल NSAID = ओपिओइड बचाव; मसल रिलैक्सेंट; ओरल NSAID से बचें।"
+          }
+        ],
+        "Monitoring and Follow-up": [
+          {
+            "question": "क्या मॉनिटर करें?",
+            "answer": "दैनिक VAS/NRS दर्द स्कोर; साप्ताहिक साइट जांच; ROM/वजन वहन; GI लक्षण; सह-रुग्णता में किडनी कार्य।"
+          },
+          {
+            "question": "रेड फ्लैग?",
+            "answer": "7 दिन से अधिक सुधार नहीं; दर्द बढ़ना; त्वचा अल्सर; सिस्टमिक लक्षण; नए न्यूरोलॉजिकल संकेत।"
+          },
+          {
+            "question": "आगे जांच कब?",
+            "answer": "2 सप्ताह से अधिक दर्द; रात का दर्द; वजन घटाव; बुखार; न्यूरोलॉजिकल कमी; कैंसर/संक्रमण इतिहास।"
+          }
+        ],
+        "Evidence and Guidelines": [
+          {
+            "question": "ओरल NSAIDs से तुलना?",
+            "answer": "मेटा-विश्लेषण: डाइक्लोफेनाक 50mg TID के बराबर राहत; 60-70% प्रतिक्रिया 7 दिन में; बेहतर स्थानीय सहनशीलता।"
+          },
+          {
+            "question": "सुरक्षा लाभ?",
+            "answer": "GI घटनाएँ: 2.5% बनाम 15% ओरल; CV जोखिम समान; त्वचा प्रतिक्रिया 10-15% हल्की।"
+          },
+          {
+            "question": "दिशानिर्देश?",
+            "answer": "NICE: घुटना/कूल्हा OA में प्रथम-पंक्ति टॉपिकल NSAID; SIGN: तीव्र सॉफ्ट टिशू चोट।"
+          }
+        ]
+      },
+
+      "K-Plast": {
+        
+        "Consumer Selection": [
+          {
+            "question": "प्राथमिक संकेत?",
+            "answer": "दीर्घकालिक OA (घुटना, कूल्हा, हाथ); RA; एंकायलोज़िंग स्पॉन्डिलाइटिस; दीर्घकालिक कमर दर्द; फाइब्रोमायल्जिया; रोटेटर कफ टेंडिनोपैथी।"
+          },
+          {
+            "question": "आदर्श उम्मीदवार?",
+            "answer": "ओरल NSAID असहिष्णुता; उच्च GI जोखिम; कई जोड़ प्रभावित; अनुपालन खराब; दीर्घकालिक चिकित्सा आवश्यकता।"
+          },
+          {
+            "question": "Contraindications?",
+            "answer": "पूर्ण: NSAID एलर्जी, तीसरी तिमाही गर्भावस्था, सक्रिय PUD। सापेक्ष: CKD 3+, हृदय रोग, आयु >75 वर्ष।"
+          }
+        ],
+        "Dosing and Duration": [
+          {
+            "question": "अनुशंसित रेजिमेन?",
+            "answer": "सबसे दर्द वाले क्षेत्र पर 1 पैच प्रतिदिन। साइट बदलें (पीठ, पेट, नितंब, ऊपरी बांह)। 24 घंटे लगातार पहनें।"
+          },
+          {
+            "question": "क्या टाइट्रेशन आवश्यक है?",
+            "answer": "नहीं। स्थिर स्तर दिन 3-5 में; पूर्ण प्रभाव 2-4 सप्ताह।"
+          },
+          {
+            "question": "दीर्घकालिक उपयोग?",
+            "answer": "6-12 माह सुरक्षित निगरानी के साथ। वार्षिक GI/CV/किडनी मूल्यांकन। 1-2 सप्ताह दवा अवकाश।"
+          }
+        ],
+        "Monitoring and Follow-up": [
+          {
+            "question": "प्रयोगशाला मॉनिटरिंग?",
+            "answer": "बेसलाइन: CrCl, LFT, BP; 3 माह: किडनी कार्य, BP, Hb; 6-12 माह: पूर्ण आकलन; वार्षिक।"
+          },
+          {
+            "question": "क्लिनिकल मॉनिटरिंग?",
+            "answer": "दर्द VAS मासिक x3; WOMAC/HAQ; त्वचा जांच; GI लक्षण।"
+          },
+          {
+            "question": "कब बंद करें?",
+            "answer": "8-12 सप्ताह में लाभ नहीं; CrCl बढ़ना; नया CV इवेंट; त्वचा एलर्जी; रोगी की इच्छा।"
+          }
+        ],
+        "Evidence and Guidelines": [
+          {
+            "question": "प्रभावशीलता डेटा?",
+            "answer": "OA परीक्षण: 45-60% दर्द कमी बनाम 20% प्लेसिबो; WOMAC 30-40% सुधार; पेरासिटामोल से बेहतर, ओरल NSAIDs के बराबर।"
+          },
+          {
+            "question": "सुरक्षा प्रोफाइल?",
+            "answer": "GI घटनाएँ 1.5% बनाम 12% ओरल; त्वचा प्रतिक्रिया 8% हल्की; CV जोखिम समान।"
+          },
+          {
+            "question": "संयोजन चिकित्सा?",
+            "answer": "K-Plast + पेरासिटामोल = 70% प्रतिक्रिया; + डुलोक्सेटीन/ओपिओइड; + इंट्रा-आर्टिकुलर स्टेरॉयड।"
+          }
+        ]
+      }
+    },
+    "te": {
+      "Nitof": {
+        "Consumer Selection": [
+          {
+            "question": "Nitof వల్ల ఎక్కువ ప్రయోజనం పొందే వినియోగదారులు ఎవరు?",
+            "answer": "భారీగా పొగ త్రాగే వారు (>రోజుకు 10 సిగరెట్లు); తీవ్రమైన నికోటిన్ withdrawal లక్షణాలు ఉన్న వారు; cold turkey లేదా మౌఖిక NRT విఫలమైన వారు; వైద్య సహాయంతో మానేందుకు ప్రేరణ ఉన్న వారు; నికోటిన్‌కు ఎటువంటి contraindications లేని వారు."
+          },
+          {
+            "question": "Contraindications ఏమిటి?",
+            "answer": "Absolute: ఇటీవలి MI (<2 వారాలు), తీవ్రమైన అరిత్మియాలు, హైపర్ థైరాయిడిజం. Relative: చర్మ వ్యాధులు, గర్భధారణ (లాభం ప్రమాదాన్ని మించితే), ప్యాచ్‌తో పాటు పొగ త్రాగడం (పర్యవేక్షణ అవసరం)."
+          },
+          {
+            "question": "నికోటిన్ ఆధారితత్వాన్ని ఎలా అంచనా వేయాలి?",
+            "answer": "Fagerström టెస్ట్ ఉపయోగించాలి: స్కోర్ ≥6 = అధిక ఆధారితత్వం (21mg ప్రారంభించాలి). మొదటి సిగరెట్ <30 నిమిషాల్లో ఉంటే అధిక మోతాదు అవసరం. గతంలో తీవ్రమైన withdrawal ఉంటే ప్యాచ్ అనుకూలం."
+          }
+        ],
+        "Dosing and Duration": [
+          {
+            "question": "సిఫారసు చేసిన మోతాదు షెడ్యూల్ ఏమిటి?",
+            "answer": "వారం 1-6: 21mg/24గంటలు; వారం 7-9: 14mg/24గంటలు; వారం 10-12: 7mg/24గంటలు. మొత్తం 12 వారాలు. craving కొనసాగితే స్టెప్ 1 పొడిగించవచ్చు."
+          },
+          {
+            "question": "Combination therapy ఎప్పుడు ఉపయోగించాలి?",
+            "answer": "ప్యాచ్ ఉన్నప్పటికీ craving కొనసాగితే short-acting NRT (గమ్/లోజెంజ్) అవసరమైనప్పుడు జోడించాలి. 30-50% మెరుగైన quit రేటు. మొత్తం నికోటిన్ ఎక్స్‌పోజర్‌ను పర్యవేక్షించాలి."
+          },
+          {
+            "question": "చికిత్స వ్యవధి ఎంత ఉండాలి?",
+            "answer": "స్టాండర్డ్: 12 వారాలు. పొడిగింపు: 24 వారాల వరకు ప్రయోజనం స్పష్టమైతే. ఒక్కసారిగా ఆపడం వల్ల relapse ప్రమాదం పెరుగుతుంది. క్రమంగా తగ్గించాలి."
+          }
+        ],
+        "Monitoring and Follow-up": [
+          {
+            "question": "చికిత్స సమయంలో ఏమి పర్యవేక్షించాలి?",
+            "answer": "CO/కోటినిన్ స్థాయిలు 4, 8, 12 వారాల్లో; craving/withdrawal; మళ్లీ పొగ త్రాగే సంఖ్య; దుష్ప్రభావాలు (చర్మం, నిద్ర); ప్రవర్తనా పురోగతి."
+          },
+          {
+            "question": "థెరపీని ఎప్పుడు పునఃమూల్యాంకనం చేయాలి?",
+            "answer": "వారం 2: సహనశీలత/దుష్ప్రభావాలు; వారం 4: ప్రభావం (craving తగ్గుదల); వారం 8: పొగ త్రాగుతున్న స్థితి; వారం 12: పూర్తిగా మానేశాడా?"
+          },
+          {
+            "question": "నికోటిన్ టాక్సిసిటీ నిర్వహణ ఎలా?",
+            "answer": "లక్షణాలు: వాంతులు, మలబద్ధకం, తలనిర్ఘింత, గుండె దడ. చర్య: ప్యాచ్ తొలగించాలి, ప్రాణ సూచికలు పర్యవేక్షించాలి, సహాయక చికిత్స ఇవ్వాలి. సాధారణంగా స్వయంగా తగ్గుతుంది."
+          }
+        ],
+        "Evidence and Guidelines": [
+          {
+            "question": "ప్యాచ్ ప్రభావంపై ఆధారాలు ఏమిటి?",
+            "answer": "మెటా-విశ్లేషణ: ప్లాసీబోతో పోలిస్తే quit రేటు రెట్టింపు (6 నెలల వద్ద 17% vs 9%). Combination therapy: 25% విజయం. దీర్ఘకాలికంగా (>6 నెలలు): 15-20% నిరోధం."
+          },
+          {
+            "question": "NICE/GOLD మార్గదర్శకాలు ఏమంటాయి?",
+            "answer": "మొదటి వరుస NRT. అధిక ఆధారితత్వంలో combination therapy మెరుగైనది. కనీసం 12 వారాలు + ప్రవర్తనా మద్దతు. NRT విఫలమైతే varenicline/bupropion పరిగణించాలి."
+          },
+          {
+            "question": "ప్రత్యేక జనాభాలో ఉపయోగం?",
+            "answer": "గర్భధారణ: 14mg ప్రాధాన్యం, గర్భస్థ శిశువు పర్యవేక్షణ; CVD: స్థిరంగా ఉంటే సురక్షితం; మానసిక వ్యాధి: మూడ్ పర్యవేక్షణ, యాంటీడిప్రెసెంట్స్‌తో సురక్షితం."
+          }
+        ]
+      },
+
+      "Hetriva": {
+ 
+        "Consumer Selection": [
+          {
+            "question": "ఎవరికి ఎక్కువ ప్రయోజనం ఉంటుంది?",
+            "answer": "తేలికపాటి-మధ్యస్థ ఆల్జీమర్స్ (MMSE 10-26); కోలినెర్జిక్ లోపంతో వాస్కులర్ డిమెన్షియా; తీవ్రమైన హాల్యూసినేషన్లు లేని లూయీ బాడీ డిమెన్షియా; పార్కిన్సన్ డిమెన్షియా."
+          },
+          {
+            "question": "Cholinesterase inhibitors ఎప్పుడు ప్రారంభించాలి?",
+            "answer": "తేలికపాటి-మధ్యస్థ AD (MMSE 10-26); ఔషధేతర చికిత్స ఉన్నప్పటికీ ఫంక్షనల్ క్షీణత; కేర్ గివర్ భారం ఎక్కువగా ఉన్నప్పుడు; జీవన అంచనా >2 సంవత్సరాలు."
+          },
+          {
+            "question": "Contraindications ఏమిటి?",
+            "answer": "Absolute: అతిస్పందన. Relative: తీవ్రమైన కాలేయ లోపం, sick sinus syndrome, మూత్ర నిల్వ, నియంత్రణలో లేని ఆస్తమా/COPD."
+          }
+        ],
+        "Dosing and Duration": [
+          {
+            "question": "సిఫారసు చేసిన టిట్రేషన్ షెడ్యూల్?",
+            "answer": "వారం 1-2: 4.6mg/24గంటలు; వారం 3-4: 9.5mg/24గంటలు; వారం 5+: 13.3mg/24గంటలు (లక్ష్యం). నెమ్మదిగా పెంచితే GI దుష్ప్రభావాలు తగ్గుతాయి."
+          },
+          {
+            "question": "ప్యాచ్ vs మౌఖిక మార్పిడి?",
+            "answer": "4.6mg ప్యాచ్ ≈ 3mg BID మౌఖిక; 9.5mg ≈ 4.5mg BID; 13.3mg ≈ 6mg BID. ప్యాచ్ మెరుగైన అనుసరణ మరియు స్థిర స్థాయి ఇస్తుంది."
+          },
+          {
+            "question": "మోతాదు ఎప్పుడు తగ్గించాలి?",
+            "answer": "తీవ్రమైన GI దుష్ప్రభావాలు; >10% బరువు తగ్గడం; హృదయ స్పందన <50 bpm; ప్రవర్తనా క్షీణత."
+          }
+        ],
+        "Monitoring and Follow-up": [
+          {
+            "question": "ఫాలోఅప్‌లో ఏమి అంచనా వేయాలి?",
+            "answer": "MMSE/ADAS-cog ప్రతి 3-6 నెలలకు; ADL/IADL; కేర్ గివర్ అభిప్రాయం; బరువు/BMI; గుండె లక్షణాలు ఉంటే ECG; చర్మ పరిశీలన."
+          },
+          {
+            "question": "ఎప్పుడు నిలిపివేయాలి?",
+            "answer": "తీవ్రమైన AD (MMSE <10); జీవన అంచనా <6 నెలలు; 6-12 నెలల్లో ప్రయోజనం లేకపోవడం; అసహనీయ దుష్ప్రభావాలు."
+          },
+          {
+            "question": "ఔషధ పరస్పర చర్యలు?",
+            "answer": "ఇతర ChEIs‌తో కోలినెర్జిక్ ప్రభావం పెరుగుతుంది; యాంటీకోలినెర్జిక్స్ ప్రభావాన్ని తగ్గిస్తాయి; NSAIDs GI ప్రమాదం పెంచవచ్చు; బీటా-బ్లాకర్స్‌తో పర్యవేక్షణ."
+          }
+        ],
+        "Evidence and Guidelines": [
+          {
+            "question": "ప్రభావిత్వ డేటా?",
+            "answer": "MMSE మెరుగుదల: 6 నెలలకు +1.5-2.5 పాయింట్లు; ADL +2-3 పాయింట్లు; నర్సింగ్ హోమ్ ప్రవేశం 6-12 నెలలు ఆలస్యం; కేర్ గివర్ సమయం 45 నిమిషాలు/రోజు ఆదా."
+          },
+          {
+            "question": "ప్యాచ్ vs మౌఖిక ఆధారాలు?",
+            "answer": "IDEAL అధ్యయనం: సమాన ప్రభావం, 50% తక్కువ మలబద్ధకం; 24% తక్కువ చికిత్స నిలిపివేత; ఫ్లక్చుయేటింగ్ డిమెన్షియాలో స్థిర స్థాయి మెరుగైనది."
+          },
+          {
+            "question": "Combination therapy?",
+            "answer": "Memantine + ChEI: మధ్యస్థ-తీవ్ర ADలో అదనపు ప్రయోజనం; మోనోథెరపీ విఫలమైతే పరిగణించాలి; అదనపు దుష్ప్రభావాలు లేవు."
+          }
+        ]
+      },
+
+      "Trans-D": {
+        "Consumer Selection": [
+          {
+            "question": "Trans-D కోసం ఉత్తమ సూచనలు ఏమిటి?",
+            "answer": "తీవ్రమైన soft tissue గాయాలు; మడమ మెలికలు; తీవ్రమైన నడుము నొప్పి; శస్త్రచికిత్స అనంతరం నొప్పి; తీవ్రమైన gout flare; క్రీడా గాయాలు; తీవ్రమైన భుజ నొప్పి."
+          },
+          {
+            "question": "గరిష్ట ఉపయోగ కాలం ఎంత?",
+            "answer": "గరిష్టంగా 14 రోజులు నిరంతర వినియోగం. 7 రోజులకు పునఃమూల్యాంకనం. మెరుగుదల లేకపోతే తదుపరి పరీక్షలు చేయాలి."
+          },
+          {
+            "question": "Contraindications ఏమిటి?",
+            "answer": "Absolute: NSAID అలెర్జీ, గర్భధారణ 3వ త్రైమాసికం, సక్రియ PUD. Relative: ఆస్తమా, CKD దశ 4-5, హృదయ వైఫల్యం."
+          }
+        ],
+        "Dosing and Duration": [
+          {
+            "question": "సిఫారసు చేసిన విధానం?",
+            "answer": "నొప్పి ఉన్న ప్రాంతంపై రోజుకు 1-2 ప్యాచ్‌లు, గరిష్టంగా 14 రోజులు. 12 గంటలు ఆన్/ఆఫ్ సైకిల్ చర్మ ప్రతిచర్య తగ్గిస్తుంది. ప్రతి రోజు స్థలం మార్చాలి."
+          },
+          {
+            "question": "సిస్టమిక్ ఎక్స్‌పోజర్ ఎంత?",
+            "answer": "మౌఖిక డైక్లోఫెనాక్ మోతాదు యొక్క 10%. 12-24 గంటలు చికిత్సా స్థాయి. తక్కువ first-pass metabolism."
+          },
+          {
+            "question": "Combination therapy?",
+            "answer": "ప్యారాసిటమాల్ + టాపికల్ NSAID = ఓపియాయిడ్ అవసరం తగ్గింపు; మసిల్ రిలాక్సెంట్స్; మౌఖిక NSAIDs నివారించాలి."
+          }
+        ],
+        "Monitoring and Follow-up": [
+          {
+            "question": "ఏం పర్యవేక్షించాలి?",
+            "answer": "రోజువారీ VAS/NRS నొప్పి స్కోర్లు; అప్లికేషన్ స్థలం వారానికి ఒకసారి; కదలిక పరిధి; GI లక్షణాలు; సహవ్యాధుల్లో మూత్రపిండ పనితీరు."
+          },
+          {
+            "question": "నిలిపివేయాల్సిన హెచ్చరికలు?",
+            "answer": "7 రోజులకు మెరుగుదల లేకపోవడం; నొప్పి పెరగడం; చర్మ గాయాలు; సిస్టమిక్ లక్షణాలు; కొత్త న్యూరోలాజికల్ లక్షణాలు."
+          },
+          {
+            "question": "ఇంకా పరిశీలన ఎప్పుడు అవసరం?",
+            "answer": "2 వారాలకంటే ఎక్కువ నొప్పి; రాత్రి నొప్పి; బరువు తగ్గడం; జ్వరం; న్యూరోలాజికల్ లోపాలు; క్యాన్సర్/సంక్రమణ చరిత్ర."
+          }
+        ],
+        "Evidence and Guidelines": [
+          {
+            "question": "మౌఖిక NSAIDs‌తో పోలిస్తే ప్రభావం?",
+            "answer": "మెటా-విశ్లేషణ: డైక్లోఫెనాక్ 50mg TIDతో సమాన నొప్పి ఉపశమనం; 7 రోజులకు 60-70% స్పందన; మెరుగైన స్థానిక సహనశీలత."
+          },
+          {
+            "question": "భద్రత ప్రయోజనం?",
+            "answer": "GI సంఘటనలు: 2.5% vs 15% మౌఖిక; CV ప్రమాదం సమానం; చర్మ ప్రతిచర్యలు 10-15%, సాధారణంగా తేలికపాటి."
+          },
+          {
+            "question": "మార్గదర్శకాలు ఏమంటాయి?",
+            "answer": "NICE: మోకాలి/హిప్ OAలో మొదటి వరుస టాపికల్ NSAID; SIGN: తీవ్రమైన soft tissue గాయాలు; ప్యారాసిటమాల్ సహవినియోగం పరిగణించాలి."
+          }
+        ]
+      },
+
+      "K-Plast": {
+       
+        "Consumer Selection": [
+          {
+            "question": "ప్రధాన సూచనలు ఏమిటి?",
+            "answer": "దీర్ఘకాలిక OA (మోకాలు, హిప్, చేయి); RA; ankylosing spondylitis; దీర్ఘకాలిక నడుము నొప్పి; fibromyalgia; rotator cuff tendinopathy."
+          },
+          {
+            "question": "ఆదర్శ అభ్యర్థులు ఎవరు?",
+            "answer": "మౌఖిక NSAIDs తట్టుకోలేని వారు; అధిక GI ప్రమాదం; బహుళ సంయుక్త నొప్పులు; మందుల అనుసరణలో లోపం; దీర్ఘకాలిక చికిత్స అవసరం."
+          },
+          {
+            "question": "Contraindications ఏమిటి?",
+            "answer": "Absolute: NSAID అలెర్జీ, గర్భధారణ 3వ త్రైమాసికం, సక్రియ PUD. Relative: CKD 3+, గుండె సంబంధిత వ్యాధి, వృద్ధులు (>75 సంవత్సరాలు)."
+          }
+        ],
+        "Dosing and Duration": [
+          {
+            "question": "సిఫారసు చేసిన విధానం?",
+            "answer": "అత్యధిక నొప్పి ఉన్న ప్రాంతంలో రోజుకు 1 ప్యాచ్. ప్రతిరోజూ స్థానం మార్చాలి (వెనుక భాగం, పొత్తికడుపు, నితంబం, పైభుజం). 24 గంటలు నిరంతరం ధరించాలి."
+          },
+          {
+            "question": "టిట్రేషన్ అవసరమా?",
+            "answer": "లేదు. స్థిర స్థాయి 3-5 రోజుల్లో. పూర్తి యాంటీ ఇన్ఫ్లమేటరీ ప్రభావం 2-4 వారాల్లో."
+          },
+          {
+            "question": "దీర్ఘకాలిక వినియోగం?",
+            "answer": "6-12 నెలలు పర్యవేక్షణతో సురక్షితం. వార్షిక GI/CV/మూత్రపిండ అంచనా. 1-2 వారాల డ్రగ్ హాలిడే పరిగణించవచ్చు."
+          }
+        ],
+        "Monitoring and Follow-up": [
+          {
+            "question": "ల్యాబ్ పర్యవేక్షణ?",
+            "answer": "బేస్‌లైన్: CrCl, LFTs, BP. 3 నెలలు: మూత్రపిండ పనితీరు, BP, Hb. 6-12 నెలలు: పూర్తి అంచనా. ప్రతి సంవత్సరం."
+          },
+          {
+            "question": "క్లినికల్ పర్యవేక్షణ?",
+            "answer": "నొప్పి VAS నెలవారీగా 3 నెలలు, తరువాత త్రైమాసికం; WOMAC/HAQ; చర్మ పరిశీలన; GI లక్షణాలు."
+          },
+          {
+            "question": "ఎప్పుడు నిలిపివేయాలి?",
+            "answer": "8-12 వారాల్లో ప్రయోజనం లేకపోతే; CrCl పెరగడం; కొత్త/తీవ్ర CV సంఘటనలు; చర్మ అలెర్జీ; రోగి అభిరుచి."
+          }
+        ],
+        "Evidence and Guidelines": [
+          {
+            "question": "ప్రభావిత్వ డేటా ఏమిటి?",
+            "answer": "OA ట్రయల్స్: 45-60% నొప్పి తగ్గింపు vs 20% ప్లాసీబో; WOMAC 30-40% మెరుగుదల; ప్యారాసిటమాల్ కంటే మెరుగైనది, మౌఖిక NSAIDs‌తో సమానం."
+          },
+          {
+            "question": "భద్రత ప్రొఫైల్?",
+            "answer": "GI సంఘటనలు: 1.5% vs 12% మౌఖిక NSAIDs; చర్మ ప్రతిచర్యలు: 8% (చాలా తేలికపాటి); CV ప్రమాదం ఇతర టాపికల్ NSAIDs‌తో సమానం."
+          },
+          {
+            "question": "Combination therapy?",
+            "answer": "K-Plast + ప్యారాసిటమాల్ = 70% స్పందన; + డులోక్సెటిన్/ఓపియాయిడ్స్ తీవ్రమైన OAలో; + ఇంట్రా-ఆర్టిక్యులర్ స్టెరాయిడ్స్ flare నియంత్రణకు."
+          }
+        ]
+      }
+    }
+  },
+  
+  "consumer": {
+    "en": {
+      "Nitof": {
+        "Product Information & Clinical Background": [
+          {
+            "question": "What is Nitof nicotine patch?",
+            "answer": "Nitof is a nicotine transdermal patch designed for quit smoking. It delivers nicotine through the skin to reduce cravings and withdrawal symptoms. Unlike oral methods, it provides consistent nicotine levels for up to 72 hours with a single application, making it ideal for quitting tobacco."
+          },
+          {
+            "question": "How does Nitof work?",
+            "answer": "Nitof works by delivering a controlled amount of nicotine through the skin directly into your bloodstream. This maintains steady nicotine levels, reducing withdrawal symptoms like irritability, anxiety, and intense cravings. It helps your body adjust gradually to lower nicotine levels during your quit journey."
+          },
+          {
+            "question": "What are the available strengths?",
+            "answer": "Nitof is available in 3 strengths: Nitof 21 mg (for heavy smokers), Nitof 14 mg (moderate smokers), and Nitof 7 mg (light smokers). Each patch provides nicotine for 72 hours, making it ideal for structured quit plans."
+          }
+        ],
+        "Usage & Application": [
+          {
+            "question": "How do I apply Nitof patch?",
+            "answer": "1. Clean and dry your skin (upper arm, chest, or back). 2. Apply one patch every 3 days. 3. Rotate application sites to prevent irritation. 4. Wash hands before and after application. 5. The patch is water-resistant and stays on during bathing."
+          },
+          {
+            "question": "How long does one patch last?",
+            "answer": "Each Nitof patch lasts for 72 hours (3 days). This 72-hour format is more convenient than daily patches, reducing the frequency of application and helping you stick to your quit plan."
+          },
+          {
+            "question": "Can I wear Nitof while bathing?",
+            "answer": "Yes, Nitof is water-resistant and designed to stay in place during bathing, swimming, and daily activities. If a patch comes loose, replace it with a fresh one and continue your regular schedule."
+          }
+        ],
+        
+        "Advantages & Benefits": [
+          {
+            "question": "What are the main advantages of Nitof?",
+            "answer": "• Apply once every 3 days (not daily) • Consistent, steady nicotine delivery • No oral triggers like taste or smell • Discreet and easy to carry • Water-resistant design • Structured quit approach • Clinically proven effectiveness"
+          },
+          {
+            "question": "How effective is Nitof for quitting smoking?",
+            "answer": "Studies show nicotine patches increase quit rates by 2-3x compared to placebo. Combined with behavioral support, success rates improve significantly. Nitof is proven to reduce cravings and withdrawal symptoms effectively."
+          },
+          {
+            "question": "Will using Nitof affect my daily routine?",
+            "answer": "No, Nitof is designed to fit seamlessly into your daily life. Apply once every 3 days, and the patch works discreetly under your clothing. It requires minimal attention or maintenance."
+          }
+        ],
+        "Safety & Considerations": [
+          {
+            "question": "What are possible side effects?",
+            "answer": "Common side effects: mild skin irritation at application site, vivid dreams (if worn overnight), headache, nausea. Most are temporary. Remove patch if severe irritation occurs and consult your doctor."
+          },
+          {
+            "question": "Can I continue smoking while using Nitof?",
+            "answer": "It's best to quit completely, but some consumers use Nitof while reducing cigarettes. Smoking + patch increases nicotine levels—watch for nausea, dizziness. Set a quit date and aim for complete cessation."
+          },
+          {
+            "question": "Who should not use Nitof?",
+            "answer": "Avoid if: recent heart attack, serious heart rhythm problems, pregnant or breastfeeding, skin allergies to nicotine patches, using other nicotine products without doctor advice."
+          }
+        ]
+      },
+
+      "Hetriva": {
+
+        "Product Information & Clinical Background": [
+          {
+            "question": "What is Hetriva patch?",
+            "answer": "Hetriva is a rivastigmine transdermal patch for Alzheimer's disease and dementia. It provides steady cholinesterase inhibition to improve memory, thinking, and daily function with once-weekly application (higher dose options) or daily standard dosing depending on prescription."
+          },
+          {
+            "question": "How does Hetriva work?",
+            "answer": "Hetriva inhibits acetylcholinesterase, increasing acetylcholine levels in the brain. This improves communication between nerve cells, helping with memory, attention, and daily activities in dementia consumers."
+          },
+          {
+            "question": "What are the available strengths?",
+            "answer": "Hetriva comes in 3 strengths: 4.6 mg/24h, 9.5 mg/24h, 13.3 mg/24h. Each patch lasts 24 hours. Weekly higher-dose options provide continuous treatment with less frequent application."
+          }
+        ],
+        "Usage & Application": [
+          {
+            "question": "How do I apply Hetriva?",
+            "answer": "Apply to clean, dry, hairless skin on upper back, upper arm, or chest. Press firmly for 30 seconds. Change patch daily at the same time. Rotate sites to prevent irritation. You may shower or swim with the patch on."
+          },
+          {
+            "question": "Can I cut the patch?",
+            "answer": "No, never cut Hetriva patches. Cutting destroys the controlled-release mechanism and can cause overdose. Always use whole patches as prescribed."
+          },
+          {
+            "question": "What if I forget a dose?",
+            "answer": "Apply the patch as soon as remembered. If it's time for the next dose, skip the missed one—do not double up. Apply the next patch at the regular time."
+          }
+        ],
+        "Advantages & Benefits": [
+          {
+            "question": "What benefits can I expect?",
+            "answer": "Hetriva may improve memory, attention, and ability to perform daily activities. Benefits are typically seen within 4-12 weeks. It slows cognitive decline but does not cure dementia."
+          },
+          {
+            "question": "How long should I use Hetriva?",
+            "answer": "Continue as long as benefits outweigh side effects and your doctor recommends. Regular assessment is needed. Treatment is often long-term for dementia management."
+          },
+          {
+            "question": "Will Hetriva cure dementia?",
+            "answer": "No, Hetriva manages symptoms but does not cure dementia. It helps maintain cognitive function longer, improving quality of life for consumers and caregivers."
+          }
+        ],
+        "Safety & Considerations": [
+          {
+            "question": "What are common side effects?",
+            "answer": "Most common: nausea, vomiting, diarrhea, loss of appetite, dizziness, headache, skin irritation at patch site. Usually mild and decrease over time."
+          },
+          {
+            "question": "What are serious side effects?",
+            "answer": "Serious but rare: severe nausea/vomiting, fainting, slow heartbeat, urinary retention, seizures, severe skin rash. Seek immediate medical help if these occur."
+          },
+          {
+            "question": "Who should avoid Hetriva?",
+            "answer": "Avoid if: allergy to rivastigmine, current bladder obstruction, severe asthma/COPD, recent GI bleeding, pregnant or breastfeeding without doctor advice."
+          }
+        ]
+      },
+
+      "Trans-D": {
+        "Product Information & Clinical Background": [
+          {
+            "question": "What is Trans-D patch?",
+            "answer": "Trans-D is a diclofenac transdermal patch for acute pain relief (sprains, strains, sports injuries). It delivers targeted NSAID therapy directly to the painful area, minimizing stomach side effects."
+          },
+          {
+            "question": "How does Trans-D work?",
+            "answer": "Diclofenac reduces inflammation and pain by inhibiting COX enzymes at the injury site. Transdermal delivery provides high local concentration with lower systemic absorption than oral NSAIDs."
+          },
+          {
+            "question": "When should I use Trans-D?",
+            "answer": "Use for acute musculoskeletal pain: sprains, strains, tendonitis, sports injuries, post-surgical pain, acute back pain. Maximum 14 days continuous use."
+          }
+        ],
+        "Usage & Application": [
+          {
+            "question": "How do I apply Trans-D?",
+            "answer": "Apply to clean, dry, intact skin over the painful area. Press firmly for 30 seconds. Leave on for 12 hours, then remove. May reapply after 12 hours if needed. Maximum 2 patches per day."
+          },
+          {
+            "question": "Can I use heat/ice with Trans-D?",
+            "answer": "Avoid heat (heating pads, hot baths) on the patch area—it increases diclofenac absorption. Ice is acceptable. Remove patch before MRI or CT scans."
+          },
+          {
+            "question": "How long can I use Trans-D?",
+            "answer": "Maximum 14 days for acute pain. If pain persists more than 7 days or worsens, stop use and consult a doctor. Not intended for chronic pain management."
+          }
+        ],
+        "Advantages & Benefits": [
+          {
+            "question": "Why choose Trans-D over oral painkillers?",
+            "answer": "• Lower stomach side effects • Targeted delivery to pain site • No first-pass liver metabolism • Faster onset at injury site • Convenient once or twice daily dosing"
+          },
+          {
+            "question": "How quickly does it work?",
+            "answer": "Pain relief typically begins within 1-2 hours and peaks at 4-6 hours. Continue use for 3-7 days for optimal inflammation reduction."
+          },
+          {
+            "question": "Can I combine with other treatments?",
+            "answer": "Yes—combine with rest, ice, compression, elevation (RICE). May use with paracetamol. Avoid other NSAIDs. Physical therapy is safe after the acute phase."
+          }
+        ],
+        "Safety & Considerations": [
+          {
+            "question": "What are common side effects?",
+            "answer": "Application site reactions (itching, redness), mild nausea. Usually temporary. Less GI upset than oral NSAIDs."
+          },
+          {
+            "question": "Who should avoid Trans-D?",
+            "answer": "Avoid if: NSAID allergy, asthma triggered by aspirin/NSAIDs, third trimester pregnancy, active peptic ulcer, severe kidney or liver disease."
+          },
+          {
+            "question": "What if skin becomes irritated?",
+            "answer": "Remove patch immediately. Wash area with soap and water. Resume with a new patch on a different skin area. If severe rash occurs, stop use and consult a doctor."
+          }
+        ]
+      },
+
+      "K-Plast": {
+        "Product Information & Clinical Background": [
+          {
+            "question": "What is K-Plast?",
+            "answer": "K-Plast is a ketoprofen transdermal patch for chronic musculoskeletal pain (osteoarthritis, rheumatoid arthritis, fibromyalgia, chronic back pain). It provides 24-hour continuous anti-inflammatory relief."
+          },
+          {
+            "question": "How does K-Plast work?",
+            "answer": "Ketoprofen inhibits COX-1 and COX-2 enzymes, reducing inflammation and pain at the source. Transdermal delivery provides sustained local effect with minimal systemic exposure."
+          },
+          {
+            "question": "What conditions does K-Plast treat?",
+            "answer": "Chronic conditions: osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, chronic low back pain, fibromyalgia, tendonitis, bursitis, chronic soft tissue rheumatism."
+          }
+        ],
+        "Usage & Application": [
+          {
+            "question": "How do I apply K-Plast?",
+            "answer": "Apply one patch daily to clean, dry, intact skin over the most painful area (lower back, hip, knee, shoulder). Press firmly for 30 seconds. Leave on for 24 hours. Rotate sites daily."
+          },
+          {
+            "question": "How long can I use K-Plast?",
+            "answer": "Safe for long-term use (months or years) in chronic pain when monitored by a doctor. Regular assessment of benefits versus side effects is required."
+          },
+          {
+            "question": "Can I shower with K-Plast?",
+            "answer": "Yes, it is waterproof. Normal showering and bathing are acceptable. Avoid hot tubs or saunas as they may increase absorption. Pat dry gently if wet—do not rub."
+          }
+        ],
+        "Advantages & Benefits": [
+          {
+            "question": "What are K-Plast advantages?",
+            "answer": "• 24-hour continuous relief • Targeted delivery with minimal stomach effects • Steady-state drug levels • Improves function and mobility • Reduces need for oral NSAIDs • Favorable long-term safety profile"
+          },
+          {
+            "question": "How effective is K-Plast for chronic pain?",
+            "answer": "Clinical studies show 50-70% pain reduction in osteoarthritis consumers. It improves morning stiffness, joint function, and sleep quality. Better compliance than oral NSAIDs."
+          },
+          {
+            "question": "When will I feel improvement?",
+            "answer": "Pain relief may begin within 1-2 weeks. Maximum benefit is typically seen in 4-6 weeks. Continue use even if initial improvement is gradual due to cumulative anti-inflammatory effect."
+          }
+        ],
+        "Safety & Considerations": [
+          {
+            "question": "What are common side effects?",
+            "answer": "Application site reactions (5-10%): mild redness, itching. Rare systemic effects: headache, nausea. Much lower GI risk than oral NSAIDs."
+          },
+          {
+            "question": "Who should avoid K-Plast?",
+            "answer": "Avoid if: NSAID allergy, third trimester pregnancy, active peptic ulcer, severe kidney or heart failure, uncontrolled hypertension."
+          },
+          {
+            "question": "Can I use with other medications?",
+            "answer": "Safe with paracetamol. Avoid other NSAIDs. Compatible with antidepressants, antihypertensives, and statins. Monitor if using diuretics or blood thinners."
+          }
+        ]
+      }
+    },
+
+    "hi": {
+      "Nitof": {
+        
+        "Product Information & Clinical Background": [
+          {
+            "question": "Nitof निकोटीन पैच क्या है?",
+            "answer": "Nitof एक निकोटीन ट्रांसडर्मल पैच है जिसे धूम्रपान छोड़ने के लिए डिज़ाइन किया गया है। यह त्वचा के माध्यम से निकोटीन प्रदान करता है जिससे क्रेविंग और विदड्रॉल लक्षण कम होते हैं। मौखिक तरीकों के विपरीत, यह एक बार लगाने पर 72 घंटे तक स्थिर निकोटीन स्तर प्रदान करता है, जिससे तंबाकू छोड़ने के लिए यह आदर्श बनता है।"
+          },
+          {
+            "question": "Nitof कैसे काम करता है?",
+            "answer": "Nitof त्वचा के माध्यम से नियंत्रित मात्रा में निकोटीन सीधे रक्तप्रवाह में पहुंचाता है। इससे शरीर में निकोटीन का स्तर स्थिर रहता है, जिससे चिड़चिड़ापन, चिंता और तीव्र क्रेविंग जैसे विदड्रॉल लक्षण कम होते हैं। यह आपके शरीर को धीरे-धीरे कम निकोटीन स्तर के अनुकूल बनने में मदद करता है।"
+          },
+          {
+            "question": "उपलब्ध ताकतें क्या हैं?",
+            "answer": "Nitof 3 ताकतों में उपलब्ध है: Nitof 21 mg (भारी धूम्रपान करने वालों के लिए), Nitof 14 mg (मध्यम धूम्रपान करने वालों के लिए), और Nitof 7 mg (हल्के धूम्रपान करने वालों के लिए)। प्रत्येक पैच 72 घंटे तक निकोटीन प्रदान करता है, जो एक संरचित छोड़ने की योजना के लिए आदर्श है।"
+          }
+        ],
+        "Usage & Application": [
+          {
+            "question": "Nitof पैच कैसे लगाएं?",
+            "answer": "1. त्वचा को साफ और सूखा करें (ऊपरी बांह, छाती या पीठ)। 2. हर 3 दिन में एक पैच लगाएं। 3. जलन से बचने के लिए लगाने का स्थान बदलते रहें। 4. लगाने से पहले और बाद में हाथ धोएं। 5. पैच जलरोधक है और स्नान के दौरान भी लगा रह सकता है।"
+          },
+          {
+            "question": "एक पैच कितने समय तक चलता है?",
+            "answer": "प्रत्येक Nitof पैच 72 घंटे (3 दिन) तक चलता है। यह 72 घंटे का प्रारूप दैनिक पैच की तुलना में अधिक सुविधाजनक है और आपको अपनी छोड़ने की योजना पर टिके रहने में मदद करता है।"
+          },
+          {
+            "question": "क्या मैं स्नान करते समय Nitof पहन सकता/सकती हूँ?",
+            "answer": "हाँ, Nitof जलरोधक है और स्नान, तैराकी तथा दैनिक गतिविधियों के दौरान अपनी जगह पर बना रहता है। यदि पैच ढीला हो जाए, तो उसे हटाकर नया पैच लगाएं और अपनी नियमित समय-सारणी जारी रखें।"
+          }
+        ],
+        
+        "Advantages & Benefits": [
+          {
+            "question": "Nitof के मुख्य लाभ क्या हैं?",
+            "answer": "• हर 3 दिन में एक बार लगाएं (दैनिक नहीं) • स्थिर और निरंतर निकोटीन वितरण • स्वाद या गंध जैसे मौखिक ट्रिगर नहीं • गोपनीय और आसानी से ले जाने योग्य • जलरोधक डिज़ाइन • संरचित छोड़ने की योजना • चिकित्सकीय रूप से सिद्ध प्रभावशीलता"
+          },
+          {
+            "question": "धूम्रपान छोड़ने में Nitof कितना प्रभावी है?",
+            "answer": "अध्ययन दर्शाते हैं कि निकोटीन पैच प्लेसिबो की तुलना में छोड़ने की दर 2-3 गुना बढ़ाते हैं। व्यवहारिक समर्थन के साथ मिलाने पर सफलता दर और अधिक बढ़ जाती है। Nitof प्रभावी रूप से क्रेविंग और विदड्रॉल लक्षण कम करने में सिद्ध है।"
+          },
+          {
+            "question": "क्या Nitof मेरे दैनिक जीवन को प्रभावित करेगा?",
+            "answer": "नहीं, Nitof को इस प्रकार डिज़ाइन किया गया है कि यह आपकी दैनिक दिनचर्या में आसानी से शामिल हो जाए। हर 3 दिन में एक बार लगाएं और यह आपके कपड़ों के नीचे बिना ध्यान आकर्षित किए काम करता है।"
+          }
+        ],
+        "Safety & Considerations": [
+          {
+            "question": "संभावित दुष्प्रभाव क्या हैं?",
+            "answer": "सामान्य दुष्प्रभाव: लगाने की जगह पर हल्की त्वचा जलन, रात में पहनने पर जीवंत सपने, सिरदर्द, मतली। अधिकांश दुष्प्रभाव अस्थायी होते हैं। गंभीर जलन होने पर पैच हटा दें और डॉक्टर से संपर्क करें।"
+          },
+          {
+            "question": "क्या Nitof का उपयोग करते समय धूम्रपान जारी रख सकते हैं?",
+            "answer": "पूरी तरह छोड़ना सबसे अच्छा है, लेकिन कुछ लोग सिगरेट कम करते समय Nitof का उपयोग करते हैं। धूम्रपान + पैच से निकोटीन स्तर बढ़ सकता है—मतली और चक्कर पर ध्यान दें। छोड़ने की तारीख तय करें और पूर्ण रूप से छोड़ने का लक्ष्य रखें।"
+          },
+          {
+            "question": "किसे Nitof का उपयोग नहीं करना चाहिए?",
+            "answer": "इन स्थितियों में उपयोग से बचें: हाल ही में दिल का दौरा, गंभीर हृदय लय विकार, गर्भवती या स्तनपान कराने वाली महिलाएं, निकोटीन पैच से त्वचा एलर्जी, डॉक्टर की सलाह के बिना अन्य निकोटीन उत्पादों का उपयोग।"
+          }
+        ]
+      },
+      "Hetriva": {
+
+        "Product Information & Clinical Background": [
+          {
+            "question": "Hetriva पैच क्या है?",
+            "answer": "Hetriva एक रिवास्टिग्मिन ट्रांसडर्मल पैच है जिसका उपयोग अल्जाइमर रोग और डिमेंशिया में किया जाता है। यह कोलिनेस्टरेज़ एंजाइम को निरंतर अवरुद्ध करके स्मृति, सोचने की क्षमता और दैनिक कार्यक्षमता में सुधार करता है। इसे सप्ताह में एक बार लगाने की सुविधा के साथ डिज़ाइन किया गया है।"
+          },
+          {
+            "question": "Hetriva कैसे काम करता है?",
+            "answer": "Hetriva एसिटाइलकोलिनेस्टरेज़ एंजाइम को अवरुद्ध करता है, जिससे मस्तिष्क में एसिटाइलकोलाइन का स्तर बढ़ता है। इससे तंत्रिका कोशिकाओं के बीच संचार बेहतर होता है और डिमेंशिया रोगियों में स्मृति, ध्यान और दैनिक गतिविधियों में सुधार होता है।"
+          },
+          {
+            "question": "उपलब्ध ताकतें क्या हैं?",
+            "answer": "Hetriva 3 ताकतों में उपलब्ध है: 4.6 mg/24h, 9.5 mg/24h, 13.3 mg/24h। प्रत्येक पैच 24 घंटे तक प्रभावी रहता है। उच्च खुराक वाले पैच निरंतर उपचार प्रदान करते हैं।"
+          }
+        ],
+        "Usage & Application": [
+          {
+            "question": "Hetriva कैसे लगाएं?",
+            "answer": "साफ, सूखी और बिना बालों वाली त्वचा (ऊपरी पीठ, ऊपरी बांह या छाती) पर लगाएं। 30 सेकंड तक मजबूती से दबाएं। प्रतिदिन एक ही समय पर पैच बदलें। हर दिन लगाने का स्थान बदलें। पैच लगे होने पर स्नान या तैराकी कर सकते हैं।"
+          },
+          {
+            "question": "क्या पैच को काट सकते हैं?",
+            "answer": "नहीं, Hetriva पैच को कभी न काटें। काटने से नियंत्रित-रिलीज़ प्रणाली नष्ट हो जाती है और ओवरडोज़ का जोखिम बढ़ सकता है। हमेशा पूरा पैच ही उपयोग करें।"
+          },
+          {
+            "question": "यदि खुराक भूल जाएं तो क्या करें?",
+            "answer": "जैसे ही याद आए पैच लगाएं। यदि अगली खुराक का समय हो गया हो तो छूटी हुई खुराक छोड़ दें। दो पैच एक साथ न लगाएं।"
+          }
+        ],
+        "Advantages & Benefits": [
+          {
+            "question": "क्या लाभ अपेक्षित हैं?",
+            "answer": "Hetriva स्मृति, ध्यान और दैनिक कार्य करने की क्षमता में सुधार कर सकता है। लाभ सामान्यतः 4–12 सप्ताह में दिखाई देते हैं। यह संज्ञानात्मक गिरावट को धीमा करता है, लेकिन डिमेंशिया को ठीक नहीं करता।"
+          },
+          {
+            "question": "Hetriva कितने समय तक उपयोग करना चाहिए?",
+            "answer": "जब तक लाभ दुष्प्रभावों से अधिक हों और डॉक्टर सलाह दें, तब तक उपयोग जारी रखें। नियमित मूल्यांकन आवश्यक है। डिमेंशिया प्रबंधन में यह अक्सर दीर्घकालिक उपचार होता है।"
+          },
+          {
+            "question": "क्या Hetriva डिमेंशिया को ठीक करता है?",
+            "answer": "नहीं, Hetriva डिमेंशिया का इलाज नहीं करता। यह केवल लक्षणों को नियंत्रित करता है और रोगियों तथा देखभालकर्ताओं के जीवन की गुणवत्ता में सुधार करता है।"
+          }
+        ],
+        "Safety & Considerations": [
+          {
+            "question": "सामान्य दुष्प्रभाव क्या हैं?",
+            "answer": "मतली, उल्टी, दस्त, भूख कम लगना, चक्कर आना, सिरदर्द, पैच लगाने की जगह पर त्वचा जलन। ये सामान्यतः हल्के होते हैं और समय के साथ कम हो जाते हैं।"
+          },
+          {
+            "question": "गंभीर दुष्प्रभाव क्या हैं?",
+            "answer": "दुर्लभ लेकिन गंभीर: अत्यधिक मतली/उल्टी, बेहोशी, धीमी हृदय गति, मूत्र अवरोध, दौरे, गंभीर त्वचा पर चकत्ते। ऐसे लक्षण होने पर तुरंत चिकित्सा सहायता लें।"
+          },
+          {
+            "question": "किसे Hetriva का उपयोग नहीं करना चाहिए?",
+            "answer": "रिवास्टिग्मिन से एलर्जी, मूत्राशय अवरोध, गंभीर अस्थमा/COPD, हाल का जठरांत्र रक्तस्राव, गर्भावस्था या स्तनपान (डॉक्टर की सलाह के बिना)।"
+          }
+        ]
+      },
+
+      "Trans-D": {
+
+        "Product Information & Clinical Background": [
+          {
+            "question": "Trans-D पैच क्या है?",
+            "answer": "Trans-D एक डाइक्लोफेनाक ट्रांसडर्मल पैच है जो तीव्र दर्द (मोच, खिंचाव, खेल चोट) में उपयोग होता है। यह दर्द वाले स्थान पर सीधे NSAID थेरेपी प्रदान करता है और पेट पर दुष्प्रभाव कम करता है।"
+          },
+          {
+            "question": "Trans-D कैसे काम करता है?",
+            "answer": "डाइक्लोफेनाक COX एंजाइम को अवरुद्ध करके सूजन और दर्द कम करता है। ट्रांसडर्मल प्रणाली चोट वाले स्थान पर उच्च स्थानीय सांद्रता प्रदान करती है और मौखिक NSAIDs की तुलना में कम सिस्टमिक अवशोषण होता है।"
+          },
+          {
+            "question": "Trans-D कब उपयोग करें?",
+            "answer": "तीव्र मांसपेशीय और जोड़ दर्द: मोच, खिंचाव, टेंडोनाइटिस, खेल चोट, सर्जरी के बाद दर्द, तीव्र कमर दर्द। अधिकतम 14 दिन तक निरंतर उपयोग।"
+          }
+        ],
+        "Usage & Application": [
+          {
+            "question": "Trans-D कैसे लगाएं?",
+            "answer": "साफ, सूखी और स्वस्थ त्वचा पर दर्द वाले स्थान पर लगाएं। 30 सेकंड तक मजबूती से दबाएं। 12 घंटे तक लगा रहने दें, फिर हटा दें। आवश्यकता होने पर 12 घंटे बाद पुनः लगाएं। अधिकतम 2 पैच प्रतिदिन।"
+          },
+          {
+            "question": "क्या गर्म या ठंडा उपचार साथ में उपयोग कर सकते हैं?",
+            "answer": "पैच लगे स्थान पर गर्मी (हीटिंग पैड, गर्म स्नान) से बचें क्योंकि इससे डाइक्लोफेनाक का अवशोषण बढ़ सकता है। बर्फ का उपयोग कर सकते हैं। MRI/CT स्कैन से पहले पैच हटा दें।"
+          },
+          {
+            "question": "Trans-D कितने समय तक उपयोग कर सकते हैं?",
+            "answer": "तीव्र दर्द के लिए अधिकतम 14 दिन। यदि दर्द 7 दिन से अधिक रहे या बढ़े तो उपयोग बंद करें और डॉक्टर से परामर्श लें। यह दीर्घकालिक दर्द के लिए नहीं है।"
+          }
+        ],
+        "Advantages & Benefits": [
+          {
+            "question": "मौखिक दर्द निवारकों की तुलना में Trans-D क्यों चुनें?",
+            "answer": "• पेट पर कम दुष्प्रभाव • दर्द वाले स्थान पर लक्षित उपचार • यकृत में प्रथम-पास मेटाबोलिज्म नहीं • चोट वाले स्थान पर तेज प्रभाव • दिन में एक या दो बार उपयोग की सुविधा"
+          },
+          {
+            "question": "यह कितनी जल्दी काम करता है?",
+            "answer": "दर्द में राहत सामान्यतः 1–2 घंटे में शुरू होती है और 4–6 घंटे में चरम पर पहुंचती है। सूजन कम करने के लिए 3–7 दिन उपयोग जारी रखें।"
+          },
+          {
+            "question": "क्या अन्य उपचारों के साथ उपयोग कर सकते हैं?",
+            "answer": "हाँ—आराम, बर्फ, दबाव और ऊँचाई (RICE) के साथ उपयोग कर सकते हैं। पेरासिटामोल के साथ उपयोग कर सकते हैं। अन्य NSAIDs से बचें। तीव्र चरण के बाद फिजियोथेरेपी सुरक्षित है।"
+          }
+        ],
+        "Safety & Considerations": [
+          {
+            "question": "सामान्य दुष्प्रभाव क्या हैं?",
+            "answer": "लगाने की जगह पर खुजली, लालिमा, हल्की मतली। सामान्यतः अस्थायी। मौखिक NSAIDs की तुलना में कम जठरांत्र दुष्प्रभाव।"
+          },
+          {
+            "question": "किसे Trans-D का उपयोग नहीं करना चाहिए?",
+            "answer": "NSAID एलर्जी, एस्पिरिन/NSAID से प्रेरित अस्थमा, गर्भावस्था की तीसरी तिमाही, सक्रिय पेप्टिक अल्सर, गंभीर गुर्दा या यकृत रोग।"
+          },
+          {
+            "question": "यदि त्वचा में जलन हो तो क्या करें?",
+            "answer": "तुरंत पैच हटा दें। साबुन और पानी से स्थान साफ करें। नए स्थान पर नया पैच लगाएं। गंभीर चकत्ते होने पर उपयोग बंद करें और डॉक्टर से संपर्क करें।"
+          }
+        ]
+      },
+
+      "K-Plast": {
+
+        "Product Information & Clinical Background": [
+          {
+            "question": "K-Plast क्या है?",
+            "answer": "K-Plast एक केटोप्रोफेन ट्रांसडर्मल पैच है जो दीर्घकालिक मांसपेशीय और जोड़ दर्द (ऑस्टियोआर्थराइटिस, रूमेटॉइड आर्थराइटिस, फाइब्रोमायल्जिया, पुराना कमर दर्द) में उपयोग होता है। यह 24 घंटे निरंतर सूजन-रोधी राहत प्रदान करता है।"
+          },
+          {
+            "question": "K-Plast कैसे काम करता है?",
+            "answer": "केटोप्रोफेन COX-1 और COX-2 एंजाइम को अवरुद्ध करता है, जिससे सूजन और दर्द कम होता है। ट्रांसडर्मल प्रणाली लंबे समय तक स्थानीय प्रभाव देती है और सिस्टमिक दुष्प्रभाव कम होते हैं।"
+          },
+          {
+            "question": "K-Plast किन स्थितियों में उपयोग होता है?",
+            "answer": "दीर्घकालिक स्थितियाँ: ऑस्टियोआर्थराइटिस, रूमेटॉइड आर्थराइटिस, एंकायलोज़िंग स्पॉन्डिलाइटिस, पुराना कमर दर्द, फाइब्रोमायल्जिया, टेंडोनाइटिस, बर्साइटिस, दीर्घकालिक सॉफ्ट टिशू रूमेटिज्म।"
+          }
+        ],
+        "Usage & Application": [
+          {
+            "question": "K-Plast कैसे लगाएं?",
+            "answer": "साफ, सूखी और स्वस्थ त्वचा पर सबसे अधिक दर्द वाले स्थान (कमर, कूल्हा, घुटना, कंधा) पर प्रतिदिन एक पैच लगाएं। 30 सेकंड तक दबाएं। 24 घंटे तक लगा रहने दें। प्रतिदिन स्थान बदलें।"
+          },
+          {
+            "question": "K-Plast कितने समय तक उपयोग कर सकते हैं?",
+            "answer": "चिकित्सक की निगरानी में दीर्घकालिक उपयोग (महीनों/वर्षों) के लिए सुरक्षित है। लाभ और दुष्प्रभाव का नियमित मूल्यांकन आवश्यक है।"
+          },
+          {
+            "question": "क्या K-Plast के साथ स्नान कर सकते हैं?",
+            "answer": "हाँ, यह जलरोधक है। सामान्य स्नान कर सकते हैं। गर्म पानी के टब या सॉना से बचें। यदि गीला हो जाए तो हल्के से सुखाएं, रगड़ें नहीं।"
+          }
+        ],
+        "Advantages & Benefits": [
+          {
+            "question": "K-Plast के लाभ क्या हैं?",
+            "answer": "• 24 घंटे निरंतर राहत • लक्षित उपचार, पेट पर कम प्रभाव • स्थिर दवा स्तर • गतिशीलता में सुधार • मौखिक NSAIDs की आवश्यकता कम • दीर्घकालिक सुरक्षा प्रोफ़ाइल"
+          },
+          {
+            "question": "दीर्घकालिक दर्द में K-Plast कितना प्रभावी है?",
+            "answer": "क्लिनिकल अध्ययनों में ऑस्टियोआर्थराइटिस रोगियों में 50–70% तक दर्द में कमी देखी गई। सुबह की जकड़न, जोड़ कार्य और नींद की गुणवत्ता में सुधार। मौखिक NSAIDs की तुलना में बेहतर अनुपालन।"
+          },
+          {
+            "question": "सुधार कब महसूस होगा?",
+            "answer": "1–2 सप्ताह में दर्द में राहत। अधिकतम लाभ 4–6 सप्ताह में। प्रारंभिक सुधार धीमा हो तो भी उपयोग जारी रखें क्योंकि सूजन-रोधी प्रभाव संचयी होता है।"
+          }
+        ],
+        "Safety & Considerations": [
+          {
+            "question": "सामान्य दुष्प्रभाव क्या हैं?",
+            "answer": "लगाने की जगह पर 5–10% मामलों में हल्की लालिमा या खुजली। सिस्टमिक दुष्प्रभाव दुर्लभ (सिरदर्द, मतली)। मौखिक NSAIDs की तुलना में GI जोखिम बहुत कम।"
+          },
+          {
+            "question": "किसे K-Plast का उपयोग नहीं करना चाहिए?",
+            "answer": "NSAID एलर्जी, गर्भावस्था की तीसरी तिमाही, सक्रिय पेप्टिक अल्सर, गंभीर गुर्दा या हृदय विफलता, अनियंत्रित उच्च रक्तचाप।"
+          },
+          {
+            "question": "क्या अन्य दवाओं के साथ उपयोग कर सकते हैं?",
+            "answer": "पेरासिटामोल के साथ सुरक्षित। अन्य NSAIDs से बचें। एंटीडिप्रेसेंट, एंटीहाइपरटेंसिव, स्टैटिन के साथ संगत। डाइयूरेटिक्स और रक्त पतला करने वाली दवाओं के साथ निगरानी आवश्यक।"
+          }
+        ]
+      }
+    },
+    "te": {
+      "Nitof": {
+
+        "Product Information & Clinical Background": [
+          {
+            "question": "Nitof నికోటిన్ ప్యాచ్ అంటే ఏమిటి?",
+            "answer": "Nitof ఒక నికోటిన్ ట్రాన్స్‌డర్మల్ ప్యాచ్, ఇది పొగ త్రాగడం మానడానికి రూపొందించబడింది. ఇది చర్మం ద్వారా నికోటిన్‌ను అందించి craving మరియు withdrawal లక్షణాలను తగ్గిస్తుంది. మౌఖిక పద్ధతులతో పోలిస్తే, ఇది ఒక్కసారి ఉపయోగించినప్పుడు 72 గంటల వరకు స్థిరమైన నికోటిన్ స్థాయిలను అందిస్తుంది, ఇది పొగాకు మానేందుకు అనువైనది."
+          },
+          {
+            "question": "Nitof ఎలా పనిచేస్తుంది?",
+            "answer": "Nitof నియంత్రిత పరిమాణంలో నికోటిన్‌ను చర్మం ద్వారా నేరుగా రక్తప్రవాహంలోకి అందిస్తుంది. ఇది శరీరంలో స్థిరమైన నికోటిన్ స్థాయిలను కొనసాగిస్తుంది, దాంతో చిరాకు, ఆందోళన మరియు తీవ్రమైన craving వంటి withdrawal లక్షణాలు తగ్గుతాయి. ఇది మీ మాన్పు ప్రయాణంలో నికోటిన్ స్థాయిలను క్రమంగా తగ్గించుకునేందుకు శరీరాన్ని అలవాటు పడేలా సహాయపడుతుంది."
+          },
+          {
+            "question": "అందుబాటులో ఉన్న మోతాదులు ఏమిటి?",
+            "answer": "Nitof 3 మోతాదుల్లో లభిస్తుంది: Nitof 21 mg (భారీగా పొగ త్రాగే వారికి), Nitof 14 mg (మధ్యస్థంగా పొగ త్రాగే వారికి), మరియు Nitof 7 mg (తక్కువగా పొగ త్రాగే వారికి). ప్రతి ప్యాచ్ 72 గంటల పాటు నికోటిన్‌ను అందిస్తుంది, ఇది నిర్మిత మాన్పు ప్రణాళికలకు అనుకూలంగా ఉంటుంది."
+          }
+        ],
+        "Usage & Application": [
+          {
+            "question": "Nitof ప్యాచ్‌ను ఎలా ఉపయోగించాలి?",
+            "answer": "1. మీ చర్మాన్ని శుభ్రంగా మరియు పొడిగా ఉంచండి (పై భుజం, ఛాతి లేదా వెన్నుపూస ప్రాంతం). 2. ప్రతి 3 రోజులకు ఒక ప్యాచ్ పెట్టండి. 3. చర్మ రాపిడిని నివారించడానికి ప్రతి సారి వేర్వేరు ప్రాంతాల్లో పెట్టండి. 4. ప్యాచ్ ఉపయోగించే ముందు మరియు తర్వాత చేతులు కడగండి. 5. ప్యాచ్ నీటిని తట్టుకునే విధంగా రూపొందించబడింది మరియు స్నానం సమయంలో కూడా అలాగే ఉంటుంది."
+          },
+          {
+            "question": "ఒక ప్యాచ్ ఎంతకాలం పనిచేస్తుంది?",
+            "answer": "ప్రతి Nitof ప్యాచ్ 72 గంటలు (3 రోజులు) పనిచేస్తుంది. ఈ 72 గంటల ఫార్మాట్ రోజువారీ ప్యాచ్‌లతో పోలిస్తే మరింత సౌకర్యవంతంగా ఉంటుంది, అప్లికేషన్ సార్లను తగ్గిస్తుంది మరియు మీ మాన్పు ప్రణాళికను కట్టుబడి కొనసాగించడంలో సహాయపడుతుంది."
+          },
+          {
+            "question": "స్నానం చేస్తున్నప్పుడు Nitof ధరించవచ్చా?",
+            "answer": "అవును, Nitof నీటిని తట్టుకునే విధంగా రూపొందించబడింది మరియు స్నానం, ఈత మరియు రోజువారీ కార్యకలాపాల సమయంలో తన స్థానంలో ఉంటుంది. ప్యాచ్ వదులైతే, దానిని తీసివేసి కొత్త ప్యాచ్ పెట్టి మీ సాధారణ షెడ్యూల్ కొనసాగించండి."
+          }
+        ],
+        
+        "Advantages & Benefits": [
+          {
+            "question": "Nitof యొక్క ప్రధాన ప్రయోజనాలు ఏమిటి?",
+            "answer": "• ప్రతి 3 రోజులకు ఒకసారి మాత్రమే అప్లై చేయాలి (రోజూ కాదు) • స్థిరమైన మరియు నిరంతర నికోటిన్ విడుదల • రుచి లేదా వాసన వంటి మౌఖిక ప్రేరణలు లేవు • గోప్యంగా మరియు సులభంగా తీసుకెళ్లవచ్చు • నీటిని తట్టుకునే రూపకల్పన • నిర్మిత మాన్పు విధానం • వైద్యపరంగా నిరూపితమైన ప్రభావవంతత"
+          },
+          {
+            "question": "పొగ త్రాగడం మానడానికి Nitof ఎంత ప్రభావవంతం?",
+            "answer": "అధ్యయనాలు చూపిస్తున్నాయి कि నికోటిన్ ప్యాచ్‌లు ప్లాసీబోతో పోలిస్తే మాన్పు రేటును 2-3 రెట్లు పెంచుతాయి. ప్రవర్తనా మద్దతుతో కలిపి ఉపయోగించినప్పుడు విజయ రేట్లు గణనీయంగా మెరుగుపడతాయి. Nitof craving మరియు withdrawal లక్షణాలను సమర్థవంతంగా తగ్గించడంలో నిరూపితమైంది."
+          },
+          {
+            "question": "Nitof నా దైనందిన జీవితాన్ని ప్రభావితం చేస్తుందా?",
+            "answer": "లేదు, Nitof మీ రోజువారీ జీవితంలో సులభంగా సరిపోతుంది. ప్రతి 3 రోజులకు ఒకసారి అప్లై చేస్తే సరిపోతుంది మరియు ఇది మీ దుస్తుల క్రింద గోప్యంగా పనిచేస్తుంది. దీనికి తక్కువ శ్రద్ధ మరియు నిర్వహణ అవసరం."
+          }
+        ],
+        "Safety & Considerations": [
+          {
+            "question": "సాధ్యమైన దుష్ప్రభావాలు ఏమిటి?",
+            "answer": "సాధారణ దుష్ప్రభావాలు: ప్యాచ్ వేసిన చోట స్వల్ప చర్మ రాపిడి, రాత్రి వేసినప్పుడు స్పష్టమైన కలలు, తలనొప్పి, వికారం. ఎక్కువగా ఇవి తాత్కాలికం. తీవ్రమైన చర్మ రాపిడి ఉంటే ప్యాచ్ తొలగించి మీ డాక్టర్‌ను సంప్రదించండి."
+          },
+          {
+            "question": "Nitof ఉపయోగిస్తున్నప్పుడు పొగ త్రాగవచ్చా?",
+            "answer": "పూర్తిగా మానడం ఉత్తమం, కానీ కొంతమంది సిగరెట్ల సంఖ్య తగ్గించుకుంటూ Nitof ఉపయోగిస్తారు. పొగ త్రాగడం + ప్యాచ్ వాడడం వల్ల నికోటిన్ స్థాయి పెరుగుతుంది — వికారం లేదా తలనిర్ఘింత లక్షణాలను గమనించండి. మాన్పు తేదీ నిర్ణయించి పూర్తిగా మానడాన్ని లక్ష్యంగా పెట్టుకోండి."
+          },
+          {
+            "question": "ఎవరు Nitof ఉపయోగించకూడదు?",
+            "answer": "ఈ పరిస్థితుల్లో వాడకూడదు: ఇటీవలి గుండెపోటు, తీవ్రమైన గుండె రిథమ్ సమస్యలు, గర్భిణీ లేదా బాలింతలు, నికోటిన్ ప్యాచ్‌లకు చర్మ అలెర్జీ ఉన్నవారు, డాక్టర్ సలహా లేకుండా ఇతర నికోటిన్ ఉత్పత్తులు వాడేవారు."
+          }
+        ]
+      },
+      "Hetriva": {
+
+        "Product Information & Clinical Background": [
+          {
+            "question": "Hetriva ప్యాచ్ అంటే ఏమిటి?",
+            "answer": "Hetriva ఒక రివాస్టిగ్మిన్ ట్రాన్స్‌డర్మల్ ప్యాచ్, ఇది ఆల్జీమర్స్ వ్యాధి మరియు డిమెన్షియా చికిత్సలో ఉపయోగించబడుతుంది. ఇది స్థిరమైన cholinesterase నిరోధాన్ని అందించి స్మృతి, ఆలోచన మరియు రోజువారీ పనితీరును మెరుగుపరచడంలో సహాయపడుతుంది. ఇది వారానికి ఒకసారి అప్లికేషన్ సౌకర్యంతో రూపొందించబడింది (అధిక మోతాదు ఎంపికలలో), నిరంతర చికిత్సను అందిస్తుంది."
+          },
+          {
+            "question": "Hetriva ఎలా పనిచేస్తుంది?",
+            "answer": "Hetriva acetylcholinesterase ఎంజైమ్‌ను నిరోధిస్తుంది, దాంతో మెదడులో acetylcholine స్థాయిలు పెరుగుతాయి. ఇది నర కణాల మధ్య సమాచార మార్పిడిని మెరుగుపరచి డిమెన్షియా ఉన్న వినియోగదారుల్లో స్మృతి, దృష్టి మరియు రోజువారీ కార్యకలాపాలను మెరుగుపరచడంలో సహాయపడుతుంది."
+          },
+          {
+            "question": "అందుబాటులో ఉన్న మోతాదులు ఏమిటి?",
+            "answer": "Hetriva 3 మోతాదుల్లో లభిస్తుంది: 4.6 mg/24h, 9.5 mg/24h, మరియు 13.3 mg/24h. ప్రతి ప్యాచ్ 24 గంటల పాటు పనిచేస్తుంది. అధిక మోతాదు వారపు ప్యాచ్ ఎంపికలు తక్కువ అప్లికేషన్ సార్లతో నిరంతర చికిత్సను అందిస్తాయి."
+          }
+        ],
+        "Usage & Application": [
+          {
+            "question": "Hetriva ను ఎలా అప్లై చేయాలి?",
+            "answer": "శుభ్రమైన, పొడి మరియు రోమరహిత చర్మంపై (పై వెన్నుపూస, పై భుజం లేదా ఛాతి ప్రాంతం) అప్లై చేయాలి. 30 సెకన్ల పాటు బలంగా నొక్కి ఉంచాలి. ప్రతి రోజు ఒకే సమయానికి ప్యాచ్ మార్చాలి. ప్రతి సారి వేర్వేరు స్థలాన్ని ఉపయోగించాలి. ప్యాచ్ ఉన్నప్పటికీ స్నానం లేదా ఈత చేయవచ్చు."
+          },
+          {
+            "question": "ప్యాచ్‌ను కోయవచ్చా?",
+            "answer": "లేదు, Hetriva ప్యాచ్‌ను ఎప్పుడూ కోయకూడదు. కోయడం వల్ల నియంత్రిత విడుదల వ్యవస్థ దెబ్బతింటుంది మరియు అధిక మోతాదు ప్రమాదం ఏర్పడవచ్చు. ఎల్లప్పుడూ పూర్తి ప్యాచ్‌ను మాత్రమే వాడాలి."
+          },
+          {
+            "question": "డోస్ మర్చిపోతే ఏమి చేయాలి?",
+            "answer": "గుర్తొచ్చిన వెంటనే ప్యాచ్ అప్లై చేయాలి. తదుపరి డోస్ సమయం దగ్గరగా ఉంటే, మిస్ అయిన డోస్‌ను దాటవేయాలి — ఒకేసారి రెండు ప్యాచ్‌లు వాడకూడదు. తదుపరి ప్యాచ్‌ను సాధారణ సమయానికి అప్లై చేయాలి."
+          }
+        ],
+        "Advantages & Benefits": [
+          {
+            "question": "ఏ ప్రయోజనాలు ఆశించవచ్చు?",
+            "answer": "Hetriva స్మృతి, దృష్టి మరియు రోజువారీ కార్యకలాపాలు నిర్వహించే సామర్థ్యాన్ని మెరుగుపరచవచ్చు. ప్రయోజనాలు సాధారణంగా 4–12 వారాల్లో కనిపిస్తాయి. ఇది జ్ఞాన క్షీణతను నెమ్మదింపజేస్తుంది కానీ డిమెన్షియాను పూర్తిగా నయం చేయదు."
+          },
+          {
+            "question": "Hetriva ను ఎంతకాలం ఉపయోగించాలి?",
+            "answer": "ప్రయోజనాలు దుష్ప్రభావాల కంటే ఎక్కువగా ఉన్నంత వరకు మరియు డాక్టర్ సిఫారసు చేసినంతకాలం ఉపయోగించాలి. నియమిత సమీక్ష అవసరం. డిమెన్షియా నిర్వహణలో ఇది సాధారణంగా దీర్ఘకాలిక చికిత్సగా ఉంటుంది."
+          },
+          {
+            "question": "Hetriva డిమెన్షియాను నయం చేస్తుందా?",
+            "answer": "లేదు, Hetriva డిమెన్షియాను నయం చేయదు. ఇది లక్షణాలను నియంత్రించడంలో సహాయపడుతుంది మరియు వినియోగదారులు మరియు సంరక్షకుల జీవన నాణ్యతను మెరుగుపరుస్తుంది."
+          }
+        ],
+        "Safety & Considerations": [
+          {
+            "question": "సాధారణ దుష్ప్రభావాలు ఏమిటి?",
+            "answer": "అత్యంత సాధారణ దుష్ప్రభావాలు: వికారం, వాంతులు, విరేచనాలు, ఆకలి తగ్గడం, తలనిర్ఘింత, తలనొప్పి, ప్యాచ్ వేసిన ప్రదేశంలో చర్మ రాపిడి. ఇవి సాధారణంగా స్వల్పంగా ఉంటాయి మరియు కాలక్రమేణా తగ్గుతాయి."
+          },
+          {
+            "question": "తీవ్రమైన దుష్ప్రభావాలు ఏమిటి?",
+            "answer": "తీవ్రమైన కానీ అరుదైన దుష్ప్రభావాలు: తీవ్రమైన వికారం/వాంతులు, మూర్ఛ, నెమ్మదైన గుండె స్పందన, మూత్ర నిల్వ, పట్టు (seizures), తీవ్రమైన చర్మ దద్దుర్లు. ఇవి కనిపిస్తే వెంటనే వైద్య సహాయం పొందాలి."
+          },
+          {
+            "question": "ఎవరు Hetriva ఉపయోగించకూడదు?",
+            "answer": "రివాస్టిగ్మిన్‌కు అలెర్జీ ఉన్నవారు, ప్రస్తుత మూత్రాశయ అవరోధం ఉన్నవారు, తీవ్రమైన ఆస్తమా లేదా COPD ఉన్నవారు, ఇటీవలి జీర్ణాశయ రక్తస్రావం ఉన్నవారు, గర్భిణీ లేదా బాలింతలు (డాక్టర్ సలహా లేకుండా) ఉపయోగించకూడదు."
+          }
+        ]
+      },
+      "Trans-D": {
+
+        "Product Information & Clinical Background": [
+          {
+            "question": "Trans-D ప్యాచ్ అంటే ఏమిటి?",
+            "answer": "Trans-D ఒక డైక్లోఫెనాక్ ట్రాన్స్‌డర్మల్ ప్యాచ్, ఇది తీవ్రమైన నొప్పి ఉపశమనానికి ఉపయోగించబడుతుంది (మోచేయి, కండరాల లాగుడు, క్రీడా గాయాలు). ఇది నొప్పి ఉన్న ప్రాంతానికి నేరుగా NSAID చికిత్సను అందించి కడుపుకు సంబంధించిన దుష్ప్రభావాలను తగ్గిస్తుంది."
+          },
+          {
+            "question": "Trans-D ఎలా పనిచేస్తుంది?",
+            "answer": "డైక్లోఫెనాక్ COX ఎంజైములను నిరోధించి గాయమైన ప్రాంతంలో వాపు మరియు నొప్పిని తగ్గిస్తుంది. ట్రాన్స్‌డర్మల్ విధానం గాయ ప్రాంతంలో అధిక స్థానిక సాంద్రతను అందిస్తుంది మరియు మౌఖిక NSAIDs తో పోలిస్తే తక్కువ శరీరవ్యాప్త అవశోషణను కలిగి ఉంటుంది."
+          },
+          {
+            "question": "Trans-D ఎప్పుడు ఉపయోగించాలి?",
+            "answer": "తీవ్రమైన కండరాల మరియు సంయుక్త నొప్పి పరిస్థితుల్లో ఉపయోగించాలి: మోచేయి (sprains), లాగుడు (strains), టెండోనైటిస్, క్రీడా గాయాలు, శస్త్రచికిత్స అనంతర నొప్పి, తీవ్రమైన వెన్నునొప్పి. గరిష్టంగా 14 రోజులు మాత్రమే నిరంతరంగా ఉపయోగించాలి."
+          }
+        ],
+        "Usage & Application": [
+          {
+            "question": "Trans-D ను ఎలా అప్లై చేయాలి?",
+            "answer": "నొప్పి ఉన్న ప్రాంతంలోని శుభ్రమైన, పొడి మరియు చెదరకుండా ఉన్న చర్మంపై అప్లై చేయాలి. 30 సెకన్ల పాటు బలంగా నొక్కాలి. 12 గంటలు ఉంచి తర్వాత తొలగించాలి. అవసరమైతే 12 గంటల తర్వాత మళ్లీ అప్లై చేయవచ్చు. రోజుకు గరిష్టంగా 2 ప్యాచ్‌లు మాత్రమే ఉపయోగించాలి."
+          },
+          {
+            "question": "Trans-D తో పాటు వేడి లేదా చల్లని చికిత్స ఉపయోగించవచ్చా?",
+            "answer": "ప్యాచ్ ఉన్న ప్రదేశంలో వేడి (హీటింగ్ ప్యాడ్‌లు, వేడి స్నానం) ఉపయోగించకండి — ఇది డైక్లోఫెనాక్ అవశోషణను పెంచుతుంది. ఐస్ ఉపయోగించవచ్చు. MRI లేదా CT స్కాన్ చేయడానికి ముందు ప్యాచ్‌ను తొలగించాలి."
+          },
+          {
+            "question": "Trans-D ను ఎంతకాలం ఉపయోగించవచ్చు?",
+            "answer": "తీవ్రమైన నొప్పి కోసం గరిష్టంగా 14 రోజులు మాత్రమే ఉపయోగించాలి. నొప్పి 7 రోజులకు మించి కొనసాగితే లేదా మరింత పెరిగితే ఉపయోగం ఆపి డాక్టర్‌ను సంప్రదించాలి. దీర్ఘకాలిక నొప్పి నిర్వహణ కోసం ఇది కాదు."
+          }
+        ],
+        "Advantages & Benefits": [
+          {
+            "question": "మౌఖిక నొప్పి నివారణ మందులతో పోలిస్తే Trans-D ఎందుకు ఎంచుకోవాలి?",
+            "answer": "• కడుపుకు తక్కువ దుష్ప్రభావాలు • నొప్పి ఉన్న ప్రాంతానికి నేరుగా లక్ష్య చికిత్స • కాలేయంలో first-pass metabolism లేదు • గాయ ప్రాంతంలో వేగంగా పనిచేస్తుంది • రోజుకు ఒకసారి లేదా రెండు సార్లు సౌకర్యవంతమైన మోతాదు విధానం"
+          },
+          {
+            "question": "ఇది ఎంత త్వరగా పనిచేస్తుంది?",
+            "answer": "నొప్పి ఉపశమనం సాధారణంగా 1–2 గంటల్లో ప్రారంభమవుతుంది మరియు 4–6 గంటల్లో గరిష్ట స్థాయికి చేరుతుంది. వాపును తగ్గించడానికి 3–7 రోజులు ఉపయోగించాలి."
+          },
+          {
+            "question": "ఇతర చికిత్సలతో కలిపి ఉపయోగించవచ్చా?",
+            "answer": "అవును — విశ్రాంతి, ఐస్, కంప్రెషన్, ఎలివేషన్ (RICE) తో కలిపి ఉపయోగించవచ్చు. ప్యారాసిటమాల్‌తో ఉపయోగించవచ్చు. ఇతర NSAIDs ఉపయోగించకూడదు. తీవ్రమైన దశ తర్వాత ఫిజియోథెరపీ సురక్షితం."
+          }
+        ],
+        "Safety & Considerations": [
+          {
+            "question": "సాధారణ దుష్ప్రభావాలు ఏమిటి?",
+            "answer": "అప్లికేషన్ ప్రదేశంలో దురద, ఎర్రబారడం, స్వల్ప వికారం. ఇవి సాధారణంగా తాత్కాలికం. మౌఖిక NSAIDs తో పోలిస్తే తక్కువ జీర్ణాశయ సమస్యలు ఉంటాయి."
+          },
+          {
+            "question": "ఎవరు Trans-D ఉపయోగించకూడదు?",
+            "answer": "NSAID అలెర్జీ ఉన్నవారు, ఆస్పిరిన్ లేదా NSAIDs వల్ల ఆస్తమా వచ్చే వారు, గర్భధారణ మూడో త్రైమాసికంలో ఉన్నవారు, సక్రియ పెప్టిక్ అల్సర్ ఉన్నవారు, తీవ్రమైన మూత్రపిండ లేదా కాలేయ వ్యాధి ఉన్నవారు ఉపయోగించకూడదు."
+          },
+          {
+            "question": "చర్మం రాపిడి అయితే ఏమి చేయాలి?",
+            "answer": "తక్షణమే ప్యాచ్ తొలగించాలి. సబ్బు మరియు నీటితో ప్రదేశాన్ని శుభ్రపరచాలి. వేరే చర్మ ప్రాంతంలో కొత్త ప్యాచ్ అప్లై చేయాలి. తీవ్రమైన దద్దుర్లు ఉంటే ఉపయోగం ఆపి డాక్టర్‌ను సంప్రదించాలి."
+          }
+        ]
+      },
+      "K-Plast": {
+
+        "Product Information & Clinical Background": [
+          {
+            "question": "K-Plast అంటే ఏమిటి?",
+            "answer": "K-Plast ఒక కేటోప్రోఫెన్ ట్రాన్స్‌డర్మల్ ప్యాచ్, ఇది దీర్ఘకాలిక కండరాలు మరియు సంయుక్త నొప్పి (ఆస్టియోఆర్థరైటిస్, రుమటాయిడ్ ఆర్థరైటిస్, ఫైబ్రోమైయాల్జియా, దీర్ఘకాలిక వెన్నునొప్పి) చికిత్స కోసం ఉపయోగించబడుతుంది. ఇది 24 గంటల పాటు నిరంతర వాపు నిరోధక ఉపశమనాన్ని అందిస్తుంది."
+          },
+          {
+            "question": "K-Plast ఎలా పనిచేస్తుంది?",
+            "answer": "కేటోప్రోఫెన్ COX-1 మరియు COX-2 ఎంజైములను నిరోధిస్తుంది, దాంతో వాపు మరియు నొప్పి మూలస్థాయిలో తగ్గుతుంది. ట్రాన్స్‌డర్మల్ విధానం దీర్ఘకాలిక స్థానిక ప్రభావాన్ని అందిస్తుంది మరియు శరీరవ్యాప్త దుష్ప్రభావాలను తగ్గిస్తుంది."
+          },
+          {
+            "question": "K-Plast ఏ పరిస్థితులను చికిత్స చేస్తుంది?",
+            "answer": "దీర్ఘకాలిక పరిస్థితులు: ఆస్టియోఆర్థరైటిస్, రుమటాయిడ్ ఆర్థరైటిస్, అంకిలోజింగ్ స్పాండిలైటిస్, దీర్ఘకాలిక లోయర్ బ్యాక్ పెయిన్, ఫైబ్రోమైయాల్జియా, టెండోనైటిస్, బర్సైటిస్, దీర్ఘకాలిక సాఫ్ట్ టిష్యూ రుమాటిజం."
+          }
+        ],
+        "Usage & Application": [
+          {
+            "question": "K-Plast ను ఎలా అప్లై చేయాలి?",
+            "answer": "శుభ్రమైన, పొడి మరియు చెదరకుండా ఉన్న చర్మంపై అత్యధిక నొప్పి ఉన్న ప్రాంతంలో (లోయర్ బ్యాక్, హిప్, మోకాలు, భుజం) రోజుకు ఒక ప్యాచ్ అప్లై చేయాలి. 30 సెకన్ల పాటు బలంగా నొక్కాలి. 24 గంటలు అలాగే ఉంచాలి. ప్రతి రోజు అప్లికేషన్ ప్రదేశాన్ని మార్చాలి."
+          },
+          {
+            "question": "K-Plast ను ఎంతకాలం ఉపయోగించవచ్చు?",
+            "answer": "దీర్ఘకాలిక నొప్పి పరిస్థితుల్లో డాక్టర్ పర్యవేక్షణలో నెలలు లేదా సంవత్సరాల పాటు సురక్షితంగా ఉపయోగించవచ్చు. ప్రయోజనాలు మరియు దుష్ప్రభావాలను నియమితంగా అంచనా వేయాలి."
+          },
+          {
+            "question": "K-Plast తో స్నానం చేయవచ్చా?",
+            "answer": "అవును, ఇది వాటర్‌ప్రూఫ్. సాధారణ స్నానం చేయవచ్చు. అయితే హాట్ టబ్‌లు లేదా సౌనా వాడకండి (ఇవి ఔషధ అవశోషణను పెంచవచ్చు). తడిగా అయితే మెల్లగా తుడవాలి — రుద్దకండి."
+          }
+        ],
+        "Advantages & Benefits": [
+          {
+            "question": "K-Plast యొక్క ప్రధాన ప్రయోజనాలు ఏమిటి?",
+            "answer": "• 24 గంటల నిరంతర ఉపశమనం • లక్ష్య ప్రాంతానికి నేరుగా ఔషధ పంపిణీ, కడుపుకు తక్కువ ప్రభావం • స్థిరమైన ఔషధ స్థాయిలు • కదలిక మరియు పనితీరులో మెరుగుదల • మౌఖిక NSAIDs అవసరాన్ని తగ్గిస్తుంది • దీర్ఘకాలిక భద్రతా ప్రొఫైల్"
+          },
+          {
+            "question": "దీర్ఘకాలిక నొప్పిలో K-Plast ఎంత ప్రభావవంతం?",
+            "answer": "క్లినికల్ అధ్యయనాలు చూపిస్తున్నాయి कि ఆస్టియోఆర్థరైటిస్ ఉన్న వినియోగదారుల్లో 50–70% వరకు నొప్పి తగ్గింపు కనిపించింది. ఉదయం కఠినత్వం తగ్గుతుంది, సంయుక్త పనితీరు మెరుగవుతుంది, నిద్ర నాణ్యత పెరుగుతుంది. మౌఖిక NSAIDs తో పోలిస్తే మెరుగైన అనుసరణ (compliance) ఉంటుంది."
+          },
+          {
+            "question": "ఎప్పుడు మెరుగుదల అనుభవిస్తాను?",
+            "answer": "సాధారణంగా 1–2 వారాల్లో నొప్పి ఉపశమనం ప్రారంభమవుతుంది. గరిష్ట ప్రయోజనం 4–6 వారాల్లో కనిపిస్తుంది. ప్రారంభంలో మెరుగుదల నెమ్మదిగా ఉన్నా కూడా ఉపయోగం కొనసాగించాలి — ఎందుకంటే వాపు నిరోధక ప్రభావం సమీకృతంగా పెరుగుతుంది."
+          }
+        ],
+        "Safety & Considerations": [
+          {
+            "question": "సాధారణ దుష్ప్రభావాలు ఏమిటి?",
+            "answer": "అప్లికేషన్ ప్రదేశంలో 5–10% కేసుల్లో స్వల్ప ఎర్రబారడం లేదా దురద. శరీరవ్యాప్త దుష్ప్రభావాలు అరుదుగా: తలనొప్పి, వికారం. మౌఖిక NSAIDs తో పోలిస్తే జీర్ణాశయ ప్రమాదం చాలా తక్కువ."
+          },
+          {
+            "question": "ఎవరు K-Plast ఉపయోగించకూడదు?",
+            "answer": "NSAID అలెర్జీ ఉన్నవారు, గర్భధారణ మూడో త్రైమాసికంలో ఉన్నవారు, సక్రియ పెప్టిక్ అల్సర్ ఉన్నవారు, తీవ్రమైన మూత్రపిండ లేదా గుండె వైఫల్యం ఉన్నవారు, నియంత్రణలో లేని రక్తపోటు ఉన్నవారు ఉపయోగించకూడదు."
+          },
+          {
+            "question": "ఇతర మందులతో కలిపి ఉపయోగించవచ్చా?",
+            "answer": "ప్యారాసిటమాల్‌తో సురక్షితం. ఇతర NSAIDs వాడకండి. యాంటీడిప్రెసెంట్లు, యాంటీహైపర్‌టెన్సివ్‌లు, స్టాటిన్స్‌తో అనుకూలంగా ఉంటుంది. డయూరెటిక్స్ మరియు రక్తాన్ని పలుచబెట్టే మందులతో వాడేటప్పుడు పర్యవేక్షణ అవసరం."
+          }
+        ]
+      }
+    }
+  }
+}
+
+
+
